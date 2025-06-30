@@ -1,0 +1,40 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start:evaluation": "tsx src/utils/run_evaluation.ts",
+    "start": "node dist/server.js",
+    "dev": "nodemon --exec ts-node src/server.ts",
+    "build": "tsc",
+    "lint": "eslint src/**/*.ts",
+    "format": "prettier --write src/**/*.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@huggingface/transformers": "^3.6.0",
+    "@langchain/community": "^0.3.47",
+    "@langchain/core": "^0.3.61",
+    "@langchain/openai": "^0.5.16",
+    "@langchain/qdrant": "^0.1.2",
+    "@qdrant/js-client-rest": "^1.14.1",
+    "axios": "^1.10.0",
+    "body-parser": "^2.2.0",
+    "cheerio": "^1.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^5.1.0",
+    "langchain": "^0.3.29",
+    "langsmith": "^0.3.34",
+    "openai": "^4.104.0",
+    "p-limit": "^6.2.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.16.0",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.3"
+  }
+}

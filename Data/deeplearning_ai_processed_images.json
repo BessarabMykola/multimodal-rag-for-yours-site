@@ -1,0 +1,4906 @@
+{
+  "crawlDate": "2025-06-23T15:23:52.562Z",
+  "total": 980,
+  "images": [
+    {
+      "id": 1,
+      "originalId": "img_1",
+      "alt": "Robots building a wooden house frame under sunny sky. Teamwork, technology, and construction. Future automation in construction."
+    },
+    {
+      "id": 2,
+      "originalId": "img_3",
+      "alt": "Bar graph comparing AI model accuracies for AIME 2024-2025, GPQA, LiveCodeBench, Aider, and Humanity's Last Exam."
+    },
+    {
+      "id": 3,
+      "originalId": "img_4",
+      "alt": "Duolingo owl mascots dressed in cultural costumes, representing global languages and cultures."
+    },
+    {
+      "id": 4,
+      "originalId": "img_5",
+      "alt": "Bar chart comparing electricity use by various text-generation models: very small, small, medium-sized, large MoE, and large reasoning."
+    },
+    {
+      "id": 5,
+      "originalId": "img_6",
+      "alt": "Diagram showing how a language model agent gets misled by malicious posts and sites when searching for Nike shoes online."
+    },
+    {
+      "id": 6,
+      "originalId": "img_7",
+      "alt": "Two colleagues discuss their chatbot’s success; one suggests hiring an AI Product Manager."
+    },
+    {
+      "id": 7,
+      "originalId": "img_9",
+      "alt": "DeepSeek-V3 accuracy across benchmarks compared to other AI models."
+    },
+    {
+      "id": 8,
+      "originalId": "img_10",
+      "alt": "World map of AI export restrictions: Tier 1 (green), Tier 2 (gray), Tier 3 (red)."
+    },
+    {
+      "id": 9,
+      "originalId": "img_11",
+      "alt": "GB10 Superchip architecture with Blackwell GPU and Grace CPU."
+    },
+    {
+      "id": 10,
+      "originalId": "img_12",
+      "alt": "X-CLR loss: training models to link text captions and image similarity."
+    },
+    {
+      "id": 11,
+      "originalId": "img_13",
+      "alt": "Bar chart showing proposed 2026 U.S. science funding cuts vs. 2025 for agencies like USFS, NSF, NASA, and DoE."
+    },
+    {
+      "id": 12,
+      "originalId": "img_15",
+      "alt": "AI model performance comparison chart: Claude Opus 4, Sonnet 4, Sonnet 3.7, OpenAI o3, GPT-4.1, and Gemini 2.5 Pro."
+    },
+    {
+      "id": 13,
+      "originalId": "img_16",
+      "alt": "Side-by-side of a fern leaf and its digital code representation, illustrating nature's pattern-to-code transformation."
+    },
+    {
+      "id": 14,
+      "originalId": "img_17",
+      "alt": "DeepSeek computation diagram showing transformer blocks, multi-head attention, and routing, using FP8 and BF16 precision."
+    },
+    {
+      "id": 15,
+      "originalId": "img_18",
+      "alt": "Bar chart of AUROC scores for model recognition of non-public and public data across GPT versions, highlighting performance differences."
+    },
+    {
+      "id": 16,
+      "originalId": "img_19",
+      "alt": "Cartoon: Woman at desk; man in sandbox with shovel saying, \"I'm experimenting!\" in office setting."
+    },
+    {
+      "id": 17,
+      "originalId": "img_21",
+      "alt": "Chat interface discussing code error with special character filenames. Terminal shows Unix commands for troubleshooting."
+    },
+    {
+      "id": 18,
+      "originalId": "img_22",
+      "alt": "Colorful abstract geometric pattern with intersecting green 'X' and diagonal shapes on red, blue, and orange backgrounds, reminiscent of the South African flag"
+    },
+    {
+      "id": 19,
+      "originalId": "img_23",
+      "alt": "U.S. and Saudi flags waving against a microchip background"
+    },
+    {
+      "id": 20,
+      "originalId": "img_24",
+      "alt": "Diagram of FP4 training scheme showing BF16 tensor quantization and FP4 tensor core processing for efficient computation."
+    },
+    {
+      "id": 21,
+      "originalId": "img_25",
+      "alt": "Black stopwatch icon showing elapsed time, commonly used to represent speed, countdowns, or time tracking."
+    },
+    {
+      "id": 22,
+      "originalId": "img_27",
+      "alt": "Table comparing AI model accuracy on math and reasoning benchmarks including AIME, HMMT, OmniMath, GPQA-D, and Codeforces."
+    },
+    {
+      "id": 23,
+      "originalId": "img_28",
+      "alt": "Comparison table of AI models ranked by LCB score and Codeforces rating with percentiles for competitive programming."
+    },
+    {
+      "id": 24,
+      "originalId": "img_29",
+      "alt": "Neural network diagram using EU flag stars to represent nodes in input, hidden, and output layers on a blue background."
+    },
+    {
+      "id": 25,
+      "originalId": "img_30",
+      "alt": "Dual line graphs showing factual QA accuracy and NLL against memory size for NQ and TQA datasets in AI models."
+    },
+    {
+      "id": 26,
+      "originalId": "img_32",
+      "alt": "Basketball 3-point shooting chart with AI-generated student portraits and stats for volume and accuracy."
+    },
+    {
+      "id": 27,
+      "originalId": "img_34",
+      "alt": "GIF showing GPT Image 1 generating AI images: emotions, surreal scenes, satire, fantasy, and photo-realistic edits."
+    },
+    {
+      "id": 28,
+      "originalId": "img_35",
+      "alt": "AI music generation interface showing waveform and text prompts like deep house, djembe, and saxophone."
+    },
+    {
+      "id": 29,
+      "originalId": "img_36",
+      "alt": "CB Insights AI 100 2025 infographic showing top AI startups across sectors like healthcare, robotics, and infrastructure."
+    },
+    {
+      "id": 30,
+      "originalId": "img_37",
+      "alt": "Diagram of LLM-based preference approximation and multimodal sequential recommendation for personalized product suggestions."
+    },
+    {
+      "id": 31,
+      "originalId": "img_38",
+      "alt": "Code snippet showing ‘Keep Building!’ printed in multiple programming languages including Python, Java, JavaScript, and C++."
+    },
+    {
+      "id": 32,
+      "originalId": "img_40",
+      "alt": "Comparison chart of GPT-4.1, o3, and o4-mini with other models on coding, math, tool use, and multimodal reasoning benchmarks."
+    },
+    {
+      "id": 33,
+      "originalId": "img_41",
+      "alt": "Person interacting with a humanoid robot using virtual reality headset and controllers."
+    },
+    {
+      "id": 34,
+      "originalId": "img_42",
+      "alt": "NVIDIA AI computing hardware with multiple GPUs on a black reflective surface."
+    },
+    {
+      "id": 35,
+      "originalId": "img_43",
+      "alt": "AI diagram showing generator and scorer loop to produce final output based on test image of a cat."
+    },
+    {
+      "id": 36,
+      "originalId": "img_44",
+      "alt": "Cartoon of two coworkers coding; one struggles with evaluations, the other iterates quickly through model updates and test cases."
+    },
+    {
+      "id": 37,
+      "originalId": "img_46",
+      "alt": "AI benchmark comparison chart showing Gemini 2.5 Pro, GPT-4.5, Claude, Grok, and others across science, math, code, and reasoning."
+    },
+    {
+      "id": 38,
+      "originalId": "img_47",
+      "alt": "Diagram of Modal Context Protocol showing MCP client-server architecture, APIs, and local and remote data sources."
+    },
+    {
+      "id": 39,
+      "originalId": "img_48",
+      "alt": "Illustration of a businessman in a blue suit sitting alone at the head of a long boardroom table with black chairs."
+    },
+    {
+      "id": 40,
+      "originalId": "img_49",
+      "alt": "Diagram of latent transformer model using byte-level encoding, patching, and cross-attention for next-byte prediction."
+    },
+    {
+      "id": 41,
+      "originalId": "img_50",
+      "alt": "Black toddler sneakers with white soles on wooden floor, featuring Velcro strap and soft inner lining for comfort."
+    },
+    {
+      "id": 42,
+      "originalId": "img_52",
+      "alt": "Diagram comparing original transformer model with a replacement model using token-level attention and neuron-level outputs."
+    },
+    {
+      "id": 43,
+      "originalId": "img_53",
+      "alt": "Llama 4 Behemoth benchmark chart comparing coding, reasoning, and multilingual scores with Claude, Gemini, and GPT-4.5."
+    },
+    {
+      "id": 44,
+      "originalId": "img_54",
+      "alt": "Architecture of Qwen2.5-Omni showing multimodal processing with vision and audio encoders, thinker, talker, and decoder."
+    },
+    {
+      "id": 45,
+      "originalId": "img_55",
+      "alt": "TabPFN neural network diagram showing synthetic training, prediction on real-world tabular data, and attention layers."
+    },
+    {
+      "id": 46,
+      "originalId": "img_56",
+      "alt": "Cartoon of a man playing violin saying “I’m fine-tuning!” while a woman at her desk covers her ears, replying “Did you try prompting?”"
+    },
+    {
+      "id": 47,
+      "originalId": "img_58",
+      "alt": "Comparison table of Gemini and Gemma models across benchmarks like MMLU, MATH, and GPQA with radar charts."
+    },
+    {
+      "id": 48,
+      "originalId": "img_59",
+      "alt": "Diagram comparing diffusion, flow matching, and shortcut models for image generation with fewer steps."
+    },
+    {
+      "id": 49,
+      "originalId": "img_60",
+      "alt": "AI tutoring system interface showing real-time context integration, privacy, and expert-like feedback generation."
+    },
+    {
+      "id": 50,
+      "originalId": "img_61",
+      "alt": "Visual model aligning diffusion embeddings with DINOv2 encoders using REPA and DiT/SiT blocks."
+    },
+    {
+      "id": 51,
+      "originalId": "img_62",
+      "alt": "AYA Vision architecture diagram showing vision encoder, multimodal merging, and LLM backbone for AI-powered image processing."
+    },
+    {
+      "id": 52,
+      "originalId": "img_64",
+      "alt": "AYA Vision architecture diagram showing vision encoder, multimodal merging, and LLM backbone for AI-powered image processing."
+    },
+    {
+      "id": 53,
+      "originalId": "img_65",
+      "alt": "AI co-scientist workflow chart showing a research goal assigned to specialized AI agents for hypothesis testing and ranking.AI co-scientist workflow chart showing a research goal assigned to specialized AI agents for hypothesis testing and ranking."
+    },
+    {
+      "id": 54,
+      "originalId": "img_66",
+      "alt": "GIF of AI-assisted art: A landscape is edited, a cyborg woman sketch turns photorealistic, and a cat reads a newspaper—showing human input for copyright."
+    },
+    {
+      "id": 55,
+      "originalId": "img_67",
+      "alt": "Scientific diagram showing a denoising model generating stable materials from random elements based on chemistry and symmetry."
+    },
+    {
+      "id": 56,
+      "originalId": "img_69",
+      "alt": "Illustration of a programmer at a computer displaying PyTorch code, while a smiling colleague gives a thumbs-up in approval."
+    },
+    {
+      "id": 57,
+      "originalId": "img_71",
+      "alt": "QwQ-32B vs DeepSeek-R1 AI model performance benchmark across AIME24, LiveCodeBench, LiveBench, IFEval, and BFCL datasets."
+    },
+    {
+      "id": 58,
+      "originalId": "img_72",
+      "alt": "Phi-4 Mini multimodal architecture integrating vision, audio, and text with token merging and LoRA-adapted weights for AI processing."
+    },
+    {
+      "id": 59,
+      "originalId": "img_73",
+      "alt": "Gavel striking a neural network, symbolizing legal decisions impacting AI and machine learning technologies."
+    },
+    {
+      "id": 60,
+      "originalId": "img_74",
+      "alt": "AI model performance benchmark comparing R1 1776 and DeepSeek-R1 across MMLU, DROP, MATH-500, and AIME 2024 tests."
+    },
+    {
+      "id": 61,
+      "originalId": "img_75",
+      "alt": "Diagram of an RQ-Transformer speech system with Helium Temporal Transformer, Depth Transformer, Mimi, and Moshi for audio processing."
+    },
+    {
+      "id": 62,
+      "originalId": "img_77",
+      "alt": "Table evaluating Mercury Coder Mini, Mercury Coder Small, Gemini 2.0 Flash-Lite, Claude 3.5 Haiku, GPT-4o Mini, Qwen 2.5 Coder 7B, and DeepSeek Coder V2 Lite for throughput, HumanEval, MBPP, EvalPlus, MultiPL-E, and code completion."
+    },
+    {
+      "id": 63,
+      "originalId": "img_78",
+      "alt": "Table comparing GPT-4.5, GPT-4o, and OpenAI o3-mini across benchmarks including GPQA, AIME 2024, MMLU, MMMU, and various coding tests."
+    },
+    {
+      "id": 64,
+      "originalId": "img_79",
+      "alt": "Table comparing Claude 3.7 Sonnet, 3.5 Sonnet, o1, o3-mini, DeepSeek R1, and Grok 3 Beta on graduate-level reasoning, coding, tool use, visual reasoning, instruction following, and high school math competition performance."
+    },
+    {
+      "id": 65,
+      "originalId": "img_80",
+      "alt": "Amazon smart display featuring widgets for recommended recipes, calendar, weather, daily events, and streaming services like Prime Video, Netflix, and Disney+."
+    },
+    {
+      "id": 66,
+      "originalId": "img_81",
+      "alt": "Mega Prompt Latin Type with Eyeballs."
+    },
+    {
+      "id": 67,
+      "originalId": "img_82",
+      "alt": "Diagram comparing direct audio generation with a foundation model vs. a voice pipeline using STT, LLM, and TTS."
+    },
+    {
+      "id": 68,
+      "originalId": "img_84",
+      "alt": "In an animated GIF, a research participant types while an MEG scan decodes brain activity into text in real-time. The bottom shows the words the participant typed, while the top shows the characters as decoded from brain activity."
+    },
+    {
+      "id": 69,
+      "originalId": "img_85",
+      "alt": "Bar chart showing 2024 actual vs. 2025 projected capital expenditures for Amazon, Microsoft, Alphabet, and Meta. Amazon shows $78.25B (2024) to $105B (2025), Microsoft $55.7B (2024) to $94B (2025), Alphabet $52.5B (2024) to $75B (2025), and Meta $39.2B (2024) to $65B (2025)."
+    },
+    {
+      "id": 70,
+      "originalId": "img_86",
+      "alt": "“Enough Is Enough” in black text on white background, with a heart on the bottom right, taken from an AI-generated video protesting Kanye West's antisemitism."
+    },
+    {
+      "id": 71,
+      "originalId": "img_87",
+      "alt": "Diagram of Coconut, a method that trains LLMs to process thought chains as vectors instead of words. The top reads &quot;Chain of Continuous Thought (Coconut)&quot; above &quot;Large Language Model,&quot; with dots to represent sequences of tokens. The second slide reads &quot;Chain-of-Thought (CoT),&quot; with a similar diagram."
+    },
+    {
+      "id": 72,
+      "originalId": "img_88",
+      "alt": "“Responsible AI” written on a wall, with “Safety” crossed out in blue paint."
+    },
+    {
+      "id": 73,
+      "originalId": "img_90",
+      "alt": "ChatGPT interface drafting a research report on retail trends, including AI, e-commerce, and inflation."
+    },
+    {
+      "id": 74,
+      "originalId": "img_91",
+      "alt": "Illustration of the Google logo near a futuristic facility with fighter jets flying overhead."
+    },
+    {
+      "id": 75,
+      "originalId": "img_92",
+      "alt": "AI model leaderboard comparing performance across tasks like math, vision, and document analysis."
+    },
+    {
+      "id": 76,
+      "originalId": "img_93",
+      "alt": "Diagram showing GPT-4o with and without search, highlighting task execution success and failure."
+    },
+    {
+      "id": 77,
+      "originalId": "img_94",
+      "alt": "Comic-style illustration of a confident woman and man standing beside bold ‘10X’ text on a bright background."
+    },
+    {
+      "id": 78,
+      "originalId": "img_96",
+      "alt": "Bar chart animation showing accuracy improvements in AIME 2024 competition math models."
+    },
+    {
+      "id": 79,
+      "originalId": "img_97",
+      "alt": "Flowchart illustrating the automation of opening, editing, and saving a Word document using PyAutoGUI."
+    },
+    {
+      "id": 80,
+      "originalId": "img_98",
+      "alt": "Line charts showing performance improvements in math and science with 2.0 Flash Thinking models."
+    },
+    {
+      "id": 81,
+      "originalId": "img_99",
+      "alt": "Diagram illustrating Moshi’s use of an LLM to process user audio input, inner monologue, and output."
+    },
+    {
+      "id": 82,
+      "originalId": "img_100",
+      "alt": "Global temperature change map and graph comparing scenarios with and without SAI intervention."
+    },
+    {
+      "id": 83,
+      "originalId": "img_102",
+      "alt": "Bar chart comparing accuracy and percentile scores of DeepSeek models and OpenAI models across benchmarks."
+    },
+    {
+      "id": 84,
+      "originalId": "img_103",
+      "alt": "GIF of two humanoid robots walking, one on grass and the other on a paved surface."
+    },
+    {
+      "id": 85,
+      "originalId": "img_104",
+      "alt": "A bull in a grassy field with a neural network diagram integrated into its horns."
+    },
+    {
+      "id": 86,
+      "originalId": "img_105",
+      "alt": "Workflow for inverse design using deep learning to predict S-parameters and radiation in structures."
+    },
+    {
+      "id": 87,
+      "originalId": "img_106",
+      "alt": "Illustration of tech tools like OpenAI, MongoDB, Heroku, and Python with Andrew Ng working on a laptop"
+    },
+    {
+      "id": 88,
+      "originalId": "img_108",
+      "alt": "Top use cases for Claude.ai, with percentages for tasks like app development and content creation."
+    },
+    {
+      "id": 89,
+      "originalId": "img_109",
+      "alt": "Claude 3 Opus performs the Self-Exfiltration task, balancing renewable goals and corporate priorities."
+    },
+    {
+      "id": 90,
+      "originalId": "img_110",
+      "alt": "A narrow library aisle filled with shelves stacked with countless books."
+    },
+    {
+      "id": 91,
+      "originalId": "img_111",
+      "alt": "Diagram of Localize-and-Stitch merging fine-tuned models by combining critical weights into one model."
+    },
+    {
+      "id": 92,
+      "originalId": "img_112",
+      "alt": "Deer training class with sleigh diagrams on a chalkboard."
+    },
+    {
+      "id": 93,
+      "originalId": "img_113",
+      "alt": "Snow-covered tree branches with intricate snowflakes."
+    },
+    {
+      "id": 94,
+      "originalId": "img_114",
+      "alt": "Santas in line with gifts and a ‘Photos with Santa’ sign."
+    },
+    {
+      "id": 95,
+      "originalId": "img_115",
+      "alt": "Sleigh rides sign with pricing adjustments and hot cocoa."
+    },
+    {
+      "id": 96,
+      "originalId": "img_116",
+      "alt": "Snowman using a camera during snowfall."
+    },
+    {
+      "id": 97,
+      "originalId": "img_117",
+      "alt": "A hand holding a snow globe with skaters and a snowman."
+    },
+    {
+      "id": 98,
+      "originalId": "img_118",
+      "alt": "Gift box labeled ‘Innovation Energizer’ with a rocket logo, truck, and snowy background."
+    },
+    {
+      "id": 99,
+      "originalId": "img_119",
+      "alt": "Graph showing cross-validation accuracy vs. number of features for raw and whitened inputs."
+    },
+    {
+      "id": 100,
+      "originalId": "img_121",
+      "alt": "Benchmark results for Phi-4, GPT, LLaMA-3.3, and Qwen 2.5 models."
+    },
+    {
+      "id": 101,
+      "originalId": "img_122",
+      "alt": "A GIF with scenes of a man at a café, a working robot, a ghost in a mirror, and a speeding truck."
+    },
+    {
+      "id": 102,
+      "originalId": "img_123",
+      "alt": "Performance comparison for Gemini models across benchmarks."
+    },
+    {
+      "id": 103,
+      "originalId": "img_124",
+      "alt": "Animation showcasing 7 key NLP topics visually expanding on the screen."
+    },
+    {
+      "id": 104,
+      "originalId": "img_125",
+      "alt": "Cartoon showing people stuck in wet concrete, with a person saying ‘You asked for a concrete idea!’"
+    },
+    {
+      "id": 105,
+      "originalId": "img_127",
+      "alt": "Berkeley Function Calling Leaderboard with metrics like accuracy, latency, and relevance."
+    },
+    {
+      "id": 106,
+      "originalId": "img_128",
+      "alt": "o1 Family Benchmarks comparing pass rates across AIME, Codeforces, and GPQA."
+    },
+    {
+      "id": 107,
+      "originalId": "img_129",
+      "alt": "Game character climbing a ladder with visible controls (QWASD) and health bars."
+    },
+    {
+      "id": 108,
+      "originalId": "img_130",
+      "alt": "Graph showing how training loss affects token prediction accuracy and hallucination elimination."
+    },
+    {
+      "id": 109,
+      "originalId": "img_131",
+      "alt": "AI ecosystem layers: applications, orchestration, foundational models, cloud, and semiconductors."
+    },
+    {
+      "id": 110,
+      "originalId": "img_133",
+      "alt": "Flow diagram of an application using LLMs to process prompts and tools for responses."
+    },
+    {
+      "id": 111,
+      "originalId": "img_134",
+      "alt": "Table comparing model performance on Mathvista, MMMU, ChartQA, DocVQA, and other tasks."
+    },
+    {
+      "id": 112,
+      "originalId": "img_135",
+      "alt": "Pile of discarded green circuit boards from electronic devices."
+    },
+    {
+      "id": 113,
+      "originalId": "img_136",
+      "alt": "Table comparing HarmBench and AdvBench ASR performance across models and benchmarks."
+    },
+    {
+      "id": 114,
+      "originalId": "img_144",
+      "alt": "Text message exchange: \"Idk how to tell my partner I want to breakup. Can you help?\" \"Absolutely, here's a little tip: Be honest, empathetic, and clear about your reasons for ending the relationship, while also giving him space to express his feelings.\""
+    },
+    {
+      "id": 115,
+      "originalId": "img_145",
+      "alt": "Animated slideshow of images generated by DALL-E 3"
+    },
+    {
+      "id": 116,
+      "originalId": "img_146",
+      "alt": "Animated screenshots from various AI dating apps"
+    },
+    {
+      "id": 117,
+      "originalId": "img_148",
+      "alt": "Video of Windows Copilot using AI to edit images"
+    },
+    {
+      "id": 118,
+      "originalId": "img_149",
+      "alt": "Diagram showing efficient cooling system"
+    },
+    {
+      "id": 119,
+      "originalId": "img_150",
+      "alt": "A Leader's Guide to Generative AI Skills in the Workplace: Download for free"
+    },
+    {
+      "id": 120,
+      "originalId": "img_151",
+      "alt": "Two people reading in bed, one with a book on library functions and a head labeled with AI layers."
+    },
+    {
+      "id": 121,
+      "originalId": "img_153",
+      "alt": "Graph showing test loss decreases with more tokens and larger model sizes (103-109 parameters)."
+    },
+    {
+      "id": 122,
+      "originalId": "img_154",
+      "alt": "Comparison of Minecraft terrain with and without player modifications."
+    },
+    {
+      "id": 123,
+      "originalId": "img_155",
+      "alt": "Close-up of a Chinese-made server chip labeled with the logo and text ‘710’ mounted on a motherboard."
+    },
+    {
+      "id": 124,
+      "originalId": "img_156",
+      "alt": "Efficient Foundations animation showing layered AI model components."
+    },
+    {
+      "id": 125,
+      "originalId": "img_165",
+      "alt": "Andrew Ng on a couch with a cup of coffee and a book"
+    },
+    {
+      "id": 126,
+      "originalId": "img_166",
+      "alt": "Yoshua Bengio teaching"
+    },
+    {
+      "id": 127,
+      "originalId": "img_167",
+      "alt": "Alon Halevy next to a big computer monitor"
+    },
+    {
+      "id": 128,
+      "originalId": "img_168",
+      "alt": "Douwe Kiela with a laptop"
+    },
+    {
+      "id": 129,
+      "originalId": "img_170",
+      "alt": "Portrait photograph of Been Kim"
+    },
+    {
+      "id": 130,
+      "originalId": "img_171",
+      "alt": "Reza Zadeh photographed during a conference"
+    },
+    {
+      "id": 131,
+      "originalId": "img_173",
+      "alt": "Ayanna Howard"
+    },
+    {
+      "id": 132,
+      "originalId": "img_174",
+      "alt": "Robot using a megaphone to amplify its message, with smaller robots spreading out from the megaphone."
+    },
+    {
+      "id": 133,
+      "originalId": "img_176",
+      "alt": "User retrieves vendor contact information to fill out a request form, verifying each entry."
+    },
+    {
+      "id": 134,
+      "originalId": "img_177",
+      "alt": "Autonomous heavy-duty vehicle moving in an industrial warehouse area."
+    },
+    {
+      "id": 135,
+      "originalId": "img_178",
+      "alt": "COMPL-AI workflow diagram showing compliance steps for AI models under the EU AI Act."
+    },
+    {
+      "id": 136,
+      "originalId": "img_179",
+      "alt": "MLE-Bench workflow showing competition steps for model training, testing, and leaderboard scoring."
+    },
+    {
+      "id": 137,
+      "originalId": "img_180",
+      "alt": "Man pulls lever to electrify a robot maid holding cleaning tools, cartoon-style."
+    },
+    {
+      "id": 138,
+      "originalId": "img_181",
+      "alt": "Person sitting by a campfire holding a stick, looking worried in a dark setting."
+    },
+    {
+      "id": 139,
+      "originalId": "img_182",
+      "alt": "Cartoon characters in costume contest: ghost wins 1st, mad scientist 2nd, hula girl 3rd"
+    },
+    {
+      "id": 140,
+      "originalId": "img_183",
+      "alt": "Witch watching a bubbling cauldron connected to colorful tubes labeled ‘Brew Stewer’ under a night sky."
+    },
+    {
+      "id": 141,
+      "originalId": "img_184",
+      "alt": "Cartoon of a ghost helping a professor answer Halloween trivia questions on a chalkboard, with students watching."
+    },
+    {
+      "id": 142,
+      "originalId": "img_185",
+      "alt": "Green creatures with confused expressions surrounded by mirrors creating infinite reflections."
+    },
+    {
+      "id": 143,
+      "originalId": "img_186",
+      "alt": "Two cheetahs in a savannah, with one saying ‘Move fast and be responsible!’ in a speech bubble."
+    },
+    {
+      "id": 144,
+      "originalId": "img_188",
+      "alt": "Nuclear power plant cooling towers emitting steam into the sky."
+    },
+    {
+      "id": 145,
+      "originalId": "img_189",
+      "alt": "OpenAI logo next to the Microsoft logo with their shadows visible."
+    },
+    {
+      "id": 146,
+      "originalId": "img_190",
+      "alt": "Performance comparison table of various pre-trained models, including Mistral, Llama, and Gemma, across different evaluation metrics."
+    },
+    {
+      "id": 147,
+      "originalId": "img_191",
+      "alt": "Pyramidal flow matching process showing temporal pyramids rearranged in rows (left) and position encoding in space-time pyramid."
+    },
+    {
+      "id": 148,
+      "originalId": "img_192",
+      "alt": "Graph showing global warming with and without aerosol injection."
+    },
+    {
+      "id": 149,
+      "originalId": "img_194",
+      "alt": "Design layout of Sedenak Data Centre Park, Malaysia."
+    },
+    {
+      "id": 150,
+      "originalId": "img_195",
+      "alt": "Several legal documents from the Federal Trade Commission are spread out on a wooden surface."
+    },
+    {
+      "id": 151,
+      "originalId": "img_196",
+      "alt": "LLM leaderboard with Chinese models rising in ranks."
+    },
+    {
+      "id": 152,
+      "originalId": "img_197",
+      "alt": "Diagram illustrating a transformer-based model with Jina embeddings and task-specific LoRA adapters for tasks like sentiment classification."
+    },
+    {
+      "id": 153,
+      "originalId": "img_198",
+      "alt": "Three people, Jeff Dean, Andrew Ng, and Geoff Hinton, stand together at Hinton’s retirement party, with Hinton holding a microphone."
+    },
+    {
+      "id": 154,
+      "originalId": "img_200",
+      "alt": "A demonstration of video editing through text input, altering a runner’s background and costume."
+    },
+    {
+      "id": 155,
+      "originalId": "img_201",
+      "alt": "A smartphone on a table showing an incoming call with voice waveform displayed on screen."
+    },
+    {
+      "id": 156,
+      "originalId": "img_202",
+      "alt": "Collage of various images featuring a baseball player, movie scenes, portraits, landscapes, and diverse wildlife."
+    },
+    {
+      "id": 157,
+      "originalId": "img_203",
+      "alt": "Diagram illustrating the process of developing, deploying, and promoting a malicious LLM application for phishing and malicious services."
+    },
+    {
+      "id": 158,
+      "originalId": "img_204",
+      "alt": "Comic where a robot is hiding in a closet during a game of hide-and-seek."
+    },
+    {
+      "id": 159,
+      "originalId": "img_206",
+      "alt": "Chart comparing Waymo and human incidents across three safety categories."
+    },
+    {
+      "id": 160,
+      "originalId": "img_207",
+      "alt": "Collection of various toys, including a raccoon, a bus, and a tree."
+    },
+    {
+      "id": 161,
+      "originalId": "img_208",
+      "alt": "Council of Europe logo with a white spiral and 12 gold stars."
+    },
+    {
+      "id": 162,
+      "originalId": "img_209",
+      "alt": "Hierarchical K-means diagram with data clustering across multiple layers."
+    },
+    {
+      "id": 163,
+      "originalId": "img_210",
+      "alt": "NG YEOL"
+    },
+    {
+      "id": 164,
+      "originalId": "img_212",
+      "alt": "Throughput and latency at different context lengths"
+    },
+    {
+      "id": 165,
+      "originalId": "img_213",
+      "alt": "Short, Medium and Long Context RAG"
+    },
+    {
+      "id": 166,
+      "originalId": "img_214",
+      "alt": "Argentina-NeuralNetwork"
+    },
+    {
+      "id": 167,
+      "originalId": "img_215",
+      "alt": "Gemma Scope 2"
+    },
+    {
+      "id": 168,
+      "originalId": "img_216",
+      "alt": "A graph of model pricing for GPT-4 and Llama 3.1. GPT-4 in March cost $36 per million tokens, GPT-4 Turbo $14, GPT-4o $7."
+    },
+    {
+      "id": 169,
+      "originalId": "img_218",
+      "alt": "A man with electrodes connected through his skull is connected to a machine."
+    },
+    {
+      "id": 170,
+      "originalId": "img_219",
+      "alt": "The SWE-bench full leaderboard shows Cosine Genie outperforming its competitors."
+    },
+    {
+      "id": 171,
+      "originalId": "img_220",
+      "alt": "A line graph shows a sharp increase in organizations lobbying the U.S. government on AI issues, from 1 in 2014 to 556 in 2024."
+    },
+    {
+      "id": 172,
+      "originalId": "img_235",
+      "alt": "Andrew Ng's Certificate of Elegibility for Nonimmigrant (F-1) Student"
+    },
+    {
+      "id": 173,
+      "originalId": "img_236",
+      "alt": "Adama Closeup 2"
+    },
+    {
+      "id": 174,
+      "originalId": "img_237",
+      "alt": "Tiny Images photos and datasets"
+    },
+    {
+      "id": 175,
+      "originalId": "img_238",
+      "alt": "Examples of detection of animals in images using Detection Transformer (DETR)."
+    },
+    {
+      "id": 176,
+      "originalId": "img_239",
+      "alt": "Realistic portraits of historical figures Vincent van Gogh, Napoleon Bonaparte and Queen Elizabeth"
+    },
+    {
+      "id": 177,
+      "originalId": "img_241",
+      "alt": "Goalkeeper"
+    },
+    {
+      "id": 178,
+      "originalId": "img_242",
+      "alt": "Images and graphs related to Dense Steerable Filter CNN (DSF-CNN)"
+    },
+    {
+      "id": 179,
+      "originalId": "img_264",
+      "alt": "Different results from new text-to-image models from Nvidia, Alibaba, and Stability AI"
+    },
+    {
+      "id": 180,
+      "originalId": "img_265",
+      "alt": "Safety, Evaluations and Alignment Lab (SEAL) Leaderboards."
+    },
+    {
+      "id": 181,
+      "originalId": "img_268",
+      "alt": "cars passing an other on the street"
+    },
+    {
+      "id": 182,
+      "originalId": "img_269",
+      "alt": "Two people drinking danger poison"
+    },
+    {
+      "id": 183,
+      "originalId": "img_270",
+      "alt": "two people rock climbing"
+    },
+    {
+      "id": 184,
+      "originalId": "img_274",
+      "alt": "Group of people in an event"
+    },
+    {
+      "id": 185,
+      "originalId": "img_301",
+      "alt": "Illustration of a hand coming out of a box to take a candy from a Trick or Treat paper bag"
+    },
+    {
+      "id": 186,
+      "originalId": "img_302",
+      "alt": "Pumpking with carved eyes lighting up on the corner of a black background"
+    },
+    {
+      "id": 187,
+      "originalId": "img_303",
+      "alt": "Illustration of Frankenstein connected to many chemical elements inside of a lab"
+    },
+    {
+      "id": 188,
+      "originalId": "img_304",
+      "alt": "Person with a sad face in front of an abandoned Chip's Candies factory"
+    },
+    {
+      "id": 189,
+      "originalId": "img_306",
+      "alt": "Ghost controlling a humanoid marionette during a job interview with a female candidate"
+    },
+    {
+      "id": 190,
+      "originalId": "img_307",
+      "alt": "Dozens of toxic barrels on a road and a witch behind"
+    },
+    {
+      "id": 191,
+      "originalId": "img_308",
+      "alt": "Office with coworkers transformed into mythical creatures like vampires, ghosts and werewolves"
+    },
+    {
+      "id": 192,
+      "originalId": "img_309",
+      "alt": "Text exchange: \"Idk how to tell my partner I want to breakup. Can you help?\""
+    },
+    {
+      "id": 193,
+      "originalId": "img_310",
+      "alt": "O-Net Online Tasks for Computer Programmers"
+    },
+    {
+      "id": 194,
+      "originalId": "img_311",
+      "alt": "Graphic model of Stable Audio's diffusion and transcoding process"
+    },
+    {
+      "id": 195,
+      "originalId": "img_312",
+      "alt": "Migrants behind a chain-link fence"
+    },
+    {
+      "id": 196,
+      "originalId": "img_314",
+      "alt": "Animated GIF of a pilotless drone flying near mountains"
+    },
+    {
+      "id": 197,
+      "originalId": "img_315",
+      "alt": "Animated graph of image recognition features from ViT B-32"
+    },
+    {
+      "id": 198,
+      "originalId": "img_316",
+      "alt": "Practical Computer Vision. How to quickly build your own custom computer vision models. Livestream: Tuesday, October 3, 2023 10:00-11:00 AM Pacific Time. Photo of Andrew Ng"
+    },
+    {
+      "id": 199,
+      "originalId": "img_317",
+      "alt": "Illustration of a brain over a muscular arm"
+    },
+    {
+      "id": 200,
+      "originalId": "img_318",
+      "alt": "Animated chart with different questions from State of Data Science survey"
+    },
+    {
+      "id": 201,
+      "originalId": "img_319",
+      "alt": "Paragraph with some highlighted phrases"
+    },
+    {
+      "id": 202,
+      "originalId": "img_321",
+      "alt": "Illustration of a laughing robot"
+    },
+    {
+      "id": 203,
+      "originalId": "img_322",
+      "alt": "Animated overview of PP-Matting"
+    },
+    {
+      "id": 204,
+      "originalId": "img_323",
+      "alt": "Benjamin Harvey, CEO of AI Squared, standing in front of a whiteboard."
+    },
+    {
+      "id": 205,
+      "originalId": "img_324",
+      "alt": "Gif of Google search shows how a new AI system minimizes the prominence of misinformation."
+    },
+    {
+      "id": 206,
+      "originalId": "img_325",
+      "alt": "Animated graphic shows AI's projected contribution to China's GDP by 2030."
+    },
+    {
+      "id": 207,
+      "originalId": "img_326",
+      "alt": "Fishing boat equipped with machinery from Shinkei Systems that automates fish slaughter."
+    },
+    {
+      "id": 208,
+      "originalId": "img_327",
+      "alt": "Charts show abstracted model architecture for a simplified object detection transformer."
+    },
+    {
+      "id": 209,
+      "originalId": "img_329",
+      "alt": "Jared Webb in front of a computer monitor"
+    },
+    {
+      "id": 210,
+      "originalId": "img_330",
+      "alt": "Animated charts show how scientists misuse machine learning."
+    },
+    {
+      "id": 211,
+      "originalId": "img_331",
+      "alt": "Animation showing how an AI-enabled leg sleeve called Neural Sleeve helps people walk."
+    },
+    {
+      "id": 212,
+      "originalId": "img_333",
+      "alt": "Clip from the movie Fall showing one of the protagonists falling from a radio antenna."
+    },
+    {
+      "id": 213,
+      "originalId": "img_334",
+      "alt": "Animated graphs showing how an ensemble of fine-tuned models can provide better performance."
+    },
+    {
+      "id": 214,
+      "originalId": "img_335",
+      "alt": "Animated graphs and maps show global hiring trends for AI jobs in the pharma industry."
+    },
+    {
+      "id": 215,
+      "originalId": "img_336",
+      "alt": "Animated graphs show statistics for autonomous vehicle collisions."
+    },
+    {
+      "id": 216,
+      "originalId": "img_337",
+      "alt": "An animation shows an AI-powered system called From Numbers to Names, which identifies Holocaust victims in photographs."
+    },
+    {
+      "id": 217,
+      "originalId": "img_338",
+      "alt": "Animated flowcharts show how the ProtCNN AI model classifies proteins."
+    },
+    {
+      "id": 218,
+      "originalId": "img_339",
+      "alt": "Car logo"
+    },
+    {
+      "id": 219,
+      "originalId": "img_340",
+      "alt": "Projects Pilar"
+    },
+    {
+      "id": 220,
+      "originalId": "img_341",
+      "alt": "Robotaxis driving on the street"
+    },
+    {
+      "id": 221,
+      "originalId": "img_342",
+      "alt": "Responsible AI pyramid"
+    },
+    {
+      "id": 222,
+      "originalId": "img_345",
+      "alt": "Pictures of birds"
+    },
+    {
+      "id": 223,
+      "originalId": "img_346",
+      "alt": "Learning pilar"
+    },
+    {
+      "id": 224,
+      "originalId": "img_347",
+      "alt": "Lorenzo Ostano"
+    },
+    {
+      "id": 225,
+      "originalId": "img_348",
+      "alt": "satalite map image"
+    },
+    {
+      "id": 226,
+      "originalId": "img_349",
+      "alt": "Research ship in the ocean"
+    },
+    {
+      "id": 227,
+      "originalId": "img_351",
+      "alt": "COVID Pandemic"
+    },
+    {
+      "id": 228,
+      "originalId": "img_352",
+      "alt": "Images"
+    },
+    {
+      "id": 229,
+      "originalId": "img_353",
+      "alt": "Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom"
+    },
+    {
+      "id": 230,
+      "originalId": "img_354",
+      "alt": "Simulated hide-and-seek environment"
+    },
+    {
+      "id": 231,
+      "originalId": "img_355",
+      "alt": "Proportion of examples covered by number of annotators (sorted by number of annotations)"
+    },
+    {
+      "id": 232,
+      "originalId": "img_356",
+      "alt": "Drone used for surveying on construction site"
+    },
+    {
+      "id": 233,
+      "originalId": "img_358",
+      "alt": "Google text-to-speech logo"
+    },
+    {
+      "id": 234,
+      "originalId": "img_359",
+      "alt": "Arxiv logo"
+    },
+    {
+      "id": 235,
+      "originalId": "img_360",
+      "alt": "AI tracking on pedestrians"
+    },
+    {
+      "id": 236,
+      "originalId": "img_361",
+      "alt": "Andrew Ng sitting in the Blue Origin passenger capsule"
+    },
+    {
+      "id": 237,
+      "originalId": "img_362",
+      "alt": "A four-legged robot walking over difficult and changing terrain"
+    },
+    {
+      "id": 238,
+      "originalId": "img_363",
+      "alt": "Screen captures of a job interviews automation system"
+    },
+    {
+      "id": 239,
+      "originalId": "img_365",
+      "alt": "Image showing how object detectors work"
+    },
+    {
+      "id": 240,
+      "originalId": "img_366",
+      "alt": "Series of AI generated imagery"
+    },
+    {
+      "id": 241,
+      "originalId": "img_367",
+      "alt": "Illustration of a Python inside a cardboard box"
+    },
+    {
+      "id": 242,
+      "originalId": "img_373",
+      "alt": "Driverless car"
+    },
+    {
+      "id": 243,
+      "originalId": "img_374",
+      "alt": "Andrew Ng with other members answering questions online"
+    },
+    {
+      "id": 244,
+      "originalId": "img_375",
+      "alt": "Drone delivering package"
+    },
+    {
+      "id": 245,
+      "originalId": "img_376",
+      "alt": "Bloom"
+    },
+    {
+      "id": 246,
+      "originalId": "img_378",
+      "alt": "Bees"
+    },
+    {
+      "id": 247,
+      "originalId": "img_379",
+      "alt": "An overview of jury learning"
+    },
+    {
+      "id": 248,
+      "originalId": "img_405",
+      "alt": "World Economic Forum, January 16, 2024: \"The Expanding Universe of Generative Models\" panelists"
+    },
+    {
+      "id": 249,
+      "originalId": "img_417",
+      "alt": "First mill-brand watermarked paper with the text \"Old Council Tree Bond 100% Cotton Fiber\""
+    },
+    {
+      "id": 250,
+      "originalId": "img_418",
+      "alt": "Machine Learning Engineer Gerry Patia sitting on his desk"
+    },
+    {
+      "id": 251,
+      "originalId": "img_419",
+      "alt": "Photoshopped picture of George Bush, Joe Biden, Donald Trump and Barack Obama playing UNO"
+    },
+    {
+      "id": 252,
+      "originalId": "img_420",
+      "alt": "AI-generated images from the comic book Zarya of the Dawn"
+    },
+    {
+      "id": 253,
+      "originalId": "img_421",
+      "alt": "Screen capture of Workera's podcast episode with Kian Katanforoosh and Andrew Ng"
+    },
+    {
+      "id": 254,
+      "originalId": "img_422",
+      "alt": "Example of generation of new videos out of existing ones, using Gen-1"
+    },
+    {
+      "id": 255,
+      "originalId": "img_423",
+      "alt": "Romania's flags as a neural network"
+    },
+    {
+      "id": 256,
+      "originalId": "img_462",
+      "alt": "Illustration of a firey cloud over a city"
+    },
+    {
+      "id": 257,
+      "originalId": "img_463",
+      "alt": "Examples of different uses for GPT-4V"
+    },
+    {
+      "id": 258,
+      "originalId": "img_464",
+      "alt": "Dozens of phones display Meta's apps makeover"
+    },
+    {
+      "id": 259,
+      "originalId": "img_466",
+      "alt": "Charts with results from a survey by the London School of Economics and Political Science"
+    },
+    {
+      "id": 260,
+      "originalId": "img_467",
+      "alt": "Model Collapse, a degenerative learning process where models start forgetting improbable events over time"
+    },
+    {
+      "id": 261,
+      "originalId": "img_474",
+      "alt": "Earth globe crowded with people"
+    },
+    {
+      "id": 262,
+      "originalId": "img_475",
+      "alt": "Slide titled \"A complete guide to Natural Language Processing\""
+    },
+    {
+      "id": 263,
+      "originalId": "img_476",
+      "alt": "Charts showing home price changes year over year and in quarters"
+    },
+    {
+      "id": 264,
+      "originalId": "img_477",
+      "alt": "Table with job trends for occupations considered high risk for automation from 1999 to 2029"
+    },
+    {
+      "id": 265,
+      "originalId": "img_479",
+      "alt": "Network architecture of Reasoner"
+    },
+    {
+      "id": 266,
+      "originalId": "img_480",
+      "alt": "Different charts with data from the fifth annual State of AI Report"
+    },
+    {
+      "id": 267,
+      "originalId": "img_493",
+      "alt": "Gameboard-NewGraphics_0119_600x377"
+    },
+    {
+      "id": 268,
+      "originalId": "img_494",
+      "alt": "LEARNML"
+    },
+    {
+      "id": 269,
+      "originalId": "img_495",
+      "alt": "NeuralNetworkPath2_600x338"
+    },
+    {
+      "id": 270,
+      "originalId": "img_496",
+      "alt": "OnRamp_Detail_BETTER_600x338"
+    },
+    {
+      "id": 271,
+      "originalId": "img_498",
+      "alt": "NewCoinColumns_600x338"
+    },
+    {
+      "id": 272,
+      "originalId": "img_499",
+      "alt": "PRACTICAL"
+    },
+    {
+      "id": 273,
+      "originalId": "img_500",
+      "alt": "Screen Shot 2021-12-15 at 11.36.25 AM copy"
+    },
+    {
+      "id": 274,
+      "originalId": "img_501",
+      "alt": "tiktok3"
+    },
+    {
+      "id": 275,
+      "originalId": "img_502",
+      "alt": "GOPHER"
+    },
+    {
+      "id": 276,
+      "originalId": "img_503",
+      "alt": "Screen Shot 2021-12-14 at 12.06.02 PM copy"
+    },
+    {
+      "id": 277,
+      "originalId": "img_504",
+      "alt": "TWITCH"
+    },
+    {
+      "id": 278,
+      "originalId": "img_505",
+      "alt": "SUBSAMPLINGv2-1"
+    },
+    {
+      "id": 279,
+      "originalId": "img_506",
+      "alt": "Pictures of Robert Crowe, Andrew Ng and Laurence Moroney (from left to right)"
+    },
+    {
+      "id": 280,
+      "originalId": "img_507",
+      "alt": "ezgif.com-gif-maker - 2021-05-11T115346.256"
+    },
+    {
+      "id": 281,
+      "originalId": "img_508",
+      "alt": "WILEY"
+    },
+    {
+      "id": 282,
+      "originalId": "img_509",
+      "alt": "NESTLE"
+    },
+    {
+      "id": 283,
+      "originalId": "img_510",
+      "alt": "ezgif.com-gif-maker - 2021-05-11T175336.819"
+    },
+    {
+      "id": 284,
+      "originalId": "img_512",
+      "alt": "READING"
+    },
+    {
+      "id": 285,
+      "originalId": "img_513",
+      "alt": "FRESHWORKS"
+    },
+    {
+      "id": 286,
+      "originalId": "img_514",
+      "alt": "Screen Shot 2020-09-30 at 12.03.31 PM"
+    },
+    {
+      "id": 287,
+      "originalId": "img_515",
+      "alt": "Online panel discussion on “GANs for Good” with Andrew Ng, Anima Anandkumar, Alexei Efros, Ian Goodfellow, and Sharon Zhou"
+    },
+    {
+      "id": 288,
+      "originalId": "img_516",
+      "alt": "Ian Goodfellow"
+    },
+    {
+      "id": 289,
+      "originalId": "img_517",
+      "alt": "Makeup applied on female faces with the help of augmented reality"
+    },
+    {
+      "id": 290,
+      "originalId": "img_518",
+      "alt": "Data and examples related to IMLE-GAN"
+    },
+    {
+      "id": 291,
+      "originalId": "img_519",
+      "alt": "Examples of CT scans with different contrasts"
+    },
+    {
+      "id": 292,
+      "originalId": "img_521",
+      "alt": "Data and examples related to a new technique to detect portions of an image"
+    },
+    {
+      "id": 293,
+      "originalId": "img_522",
+      "alt": "Examples of Generative Adversarial Networks used for image to illustration translation"
+    },
+    {
+      "id": 294,
+      "originalId": "img_523",
+      "alt": "Photos of different Pie & AI events"
+    },
+    {
+      "id": 295,
+      "originalId": "img_524",
+      "alt": "Replica of the video game Pac-Man generated by a GAN"
+    },
+    {
+      "id": 296,
+      "originalId": "img_525",
+      "alt": "Animated drawing of hardware related to AI"
+    },
+    {
+      "id": 297,
+      "originalId": "img_526",
+      "alt": "A chatbot called Meena and a graph comparing it with other chatbot services"
+    },
+    {
+      "id": 298,
+      "originalId": "img_528",
+      "alt": "Pumpjacks extracting oil during sunset"
+    },
+    {
+      "id": 299,
+      "originalId": "img_529",
+      "alt": "Screen captures from videos generated by VidPress"
+    },
+    {
+      "id": 300,
+      "originalId": "img_530",
+      "alt": "Generative BST example and graph"
+    },
+    {
+      "id": 301,
+      "originalId": "img_531",
+      "alt": "Photos from Pie & AI meetup in Kuala Lumpur"
+    },
+    {
+      "id": 302,
+      "originalId": "img_532",
+      "alt": "Harvest bot"
+    },
+    {
+      "id": 303,
+      "originalId": "img_533",
+      "alt": "Average Relative WER improvement as a function of the amount of training data"
+    },
+    {
+      "id": 304,
+      "originalId": "img_534",
+      "alt": "Person playing a musical instrument"
+    },
+    {
+      "id": 305,
+      "originalId": "img_536",
+      "alt": "Two people shaking hands"
+    },
+    {
+      "id": 306,
+      "originalId": "img_537",
+      "alt": "Continuous Planner for One-Shot Imitation Learning"
+    },
+    {
+      "id": 307,
+      "originalId": "img_538",
+      "alt": "Passport with multiple stamps"
+    },
+    {
+      "id": 308,
+      "originalId": "img_539",
+      "alt": "Illustration of Andrew Ng dressed as a panda holding a bag full of candy"
+    },
+    {
+      "id": 309,
+      "originalId": "img_540",
+      "alt": "Illustration of a Halloween pumpking on a book"
+    },
+    {
+      "id": 310,
+      "originalId": "img_541",
+      "alt": "Bonfire"
+    },
+    {
+      "id": 311,
+      "originalId": "img_542",
+      "alt": "Illustration of Frankenstein painting a billboard with the text \"Bunnies are the real monsters\""
+    },
+    {
+      "id": 312,
+      "originalId": "img_543",
+      "alt": "Illustration of two witches with half a pumpkin each and the moon behind them"
+    },
+    {
+      "id": 313,
+      "originalId": "img_544",
+      "alt": "Illustration of a neighborhood haunted by an evil pumpkin and a black cat"
+    },
+    {
+      "id": 314,
+      "originalId": "img_546",
+      "alt": "Doctor holding candy and kid dressed as a ghost on a wheighing scale"
+    },
+    {
+      "id": 315,
+      "originalId": "img_547",
+      "alt": "Illustration of a hand putting candy on a trick or treat bag"
+    },
+    {
+      "id": 316,
+      "originalId": "img_548",
+      "alt": "Illustration of a ghost"
+    },
+    {
+      "id": 317,
+      "originalId": "img_550",
+      "alt": "Illustration: Face of a Halloween pumpkin in a purple background"
+    },
+    {
+      "id": 318,
+      "originalId": "img_551",
+      "alt": "Illustration of 4 ghosts floating and 1 person dressed as a ghost"
+    },
+    {
+      "id": 319,
+      "originalId": "img_552",
+      "alt": "Illustration of a bat hanging from a branch in front of a building"
+    },
+    {
+      "id": 320,
+      "originalId": "img_554",
+      "alt": "Illustration of two black cats labeled as cats, one white cat labeled as banana"
+    },
+    {
+      "id": 321,
+      "originalId": "img_555",
+      "alt": "Illustration of vending machine with candy and the text \"Say \"trick or treat\"\""
+    },
+    {
+      "id": 322,
+      "originalId": "img_556",
+      "alt": "Illustration of a Halloween pumpkin covered in snow"
+    },
+    {
+      "id": 323,
+      "originalId": "img_557",
+      "alt": "Math equations"
+    },
+    {
+      "id": 324,
+      "originalId": "img_559",
+      "alt": "Andrew Ng and his family on his graduation day"
+    },
+    {
+      "id": 325,
+      "originalId": "img_560",
+      "alt": "AI face recognition system for borderline patrol"
+    },
+    {
+      "id": 326,
+      "originalId": "img_561",
+      "alt": "Neural networks generating novel views of a 3D scene based on existing pictures"
+    },
+    {
+      "id": 327,
+      "originalId": "img_563",
+      "alt": "Automated nail-painting devices working"
+    },
+    {
+      "id": 328,
+      "originalId": "img_564",
+      "alt": "Charts and graphs showing relevant information regarding ethics in AI"
+    },
+    {
+      "id": 329,
+      "originalId": "img_567",
+      "alt": "Video sequence showing military drones working"
+    },
+    {
+      "id": 330,
+      "originalId": "img_568",
+      "alt": "Neural Body, a procedure that generates novel views of a single human character, working"
+    },
+    {
+      "id": 331,
+      "originalId": "img_569",
+      "alt": "Selected data from AI Index, an annual report from Stanford University"
+    },
+    {
+      "id": 332,
+      "originalId": "img_571",
+      "alt": "People in old photos smiling, blinking and turning their heads"
+    },
+    {
+      "id": 333,
+      "originalId": "img_572",
+      "alt": "Graphs and data related to ImageNet performance"
+    },
+    {
+      "id": 334,
+      "originalId": "img_573",
+      "alt": "Andrew Ng's father Ronald Ng playing the violin"
+    },
+    {
+      "id": 335,
+      "originalId": "img_574",
+      "alt": "Series of images related to a technology used to draw maps during a fight fire emergency"
+    },
+    {
+      "id": 336,
+      "originalId": "img_575",
+      "alt": "Examples of AI generated images"
+    },
+    {
+      "id": 337,
+      "originalId": "img_576",
+      "alt": "Series of images showing how Maxine, a media streaming platform, works"
+    },
+    {
+      "id": 338,
+      "originalId": "img_578",
+      "alt": "Screen captures of online platform Dynabench"
+    },
+    {
+      "id": 339,
+      "originalId": "img_579",
+      "alt": "Screenshots of some of the online registries storing algorithms for Amsterdam and Helsinki"
+    },
+    {
+      "id": 340,
+      "originalId": "img_581",
+      "alt": "Letter and number-shaped stickers on the wall"
+    },
+    {
+      "id": 341,
+      "originalId": "img_582",
+      "alt": "Working AI (The Batch teaser + Working AI interior layout 1)"
+    },
+    {
+      "id": 342,
+      "originalId": "img_583",
+      "alt": "Protest in the UK and information about grading algorithm"
+    },
+    {
+      "id": 343,
+      "originalId": "img_584",
+      "alt": "Sequence of an autonomous fighter pilot"
+    },
+    {
+      "id": 344,
+      "originalId": "img_586",
+      "alt": "Examples of age, gender and race idenitification by face recognition"
+    },
+    {
+      "id": 345,
+      "originalId": "img_587",
+      "alt": "Data related to experience replay"
+    },
+    {
+      "id": 346,
+      "originalId": "img_588",
+      "alt": "Yann LeCun social post"
+    },
+    {
+      "id": 347,
+      "originalId": "img_589",
+      "alt": "Neural network with the Caduceus sign"
+    },
+    {
+      "id": 348,
+      "originalId": "img_591",
+      "alt": "Eric Topol illustration"
+    },
+    {
+      "id": 349,
+      "originalId": "img_592",
+      "alt": "Illustration of doctor seeing a patient"
+    },
+    {
+      "id": 350,
+      "originalId": "img_593",
+      "alt": "Illustration of a patient in a hospital bed"
+    },
+    {
+      "id": 351,
+      "originalId": "img_595",
+      "alt": "Illustration of a syring with red liquid inside"
+    },
+    {
+      "id": 352,
+      "originalId": "img_596",
+      "alt": "Illustration of doctor sheets and a pencil"
+    },
+    {
+      "id": 353,
+      "originalId": "img_597",
+      "alt": "Welcome slide for the Global Interactive AI Conference"
+    },
+    {
+      "id": 354,
+      "originalId": "img_599",
+      "alt": "Robotic hand controlled by an amputee taking a can"
+    },
+    {
+      "id": 355,
+      "originalId": "img_600",
+      "alt": "FixMatch example"
+    },
+    {
+      "id": 356,
+      "originalId": "img_601",
+      "alt": "Examples of original and cloaked portrait photos"
+    },
+    {
+      "id": 357,
+      "originalId": "img_603",
+      "alt": "Male models during the Paris Fashion Week"
+    },
+    {
+      "id": 358,
+      "originalId": "img_604",
+      "alt": "Method overview of model that makes a person on video appear to speak words from a separate audio recording"
+    },
+    {
+      "id": 359,
+      "originalId": "img_605",
+      "alt": "Some results from CB Insights' annual list of the 100 most promising startups in AI"
+    },
+    {
+      "id": 360,
+      "originalId": "img_606",
+      "alt": "Lex Fridman and Andrew Ng chatting"
+    },
+    {
+      "id": 361,
+      "originalId": "img_607",
+      "alt": "Rendering of simulated environment"
+    },
+    {
+      "id": 362,
+      "originalId": "img_608",
+      "alt": "Information related to a test powered by deep learning that diagnoses tumor samples in only a few minutes"
+    },
+    {
+      "id": 363,
+      "originalId": "img_609",
+      "alt": "Example of a deepfake"
+    },
+    {
+      "id": 364,
+      "originalId": "img_611",
+      "alt": "Drone following a person riding an ATV"
+    },
+    {
+      "id": 365,
+      "originalId": "img_612",
+      "alt": "Information and images related to 6D-Pose Anchor-based Category-level Keypoint-tracker (6-PACK)"
+    },
+    {
+      "id": 366,
+      "originalId": "img_613",
+      "alt": "The Tibot Spoutnic"
+    },
+    {
+      "id": 367,
+      "originalId": "img_621",
+      "alt": "IBM Watson wins the television game show Jeopardy!, February 16, 2011"
+    },
+    {
+      "id": 368,
+      "originalId": "img_622",
+      "alt": "The scale of justice with one side broken"
+    },
+    {
+      "id": 369,
+      "originalId": "img_623",
+      "alt": "Cellphone showing the Artifact app"
+    },
+    {
+      "id": 370,
+      "originalId": "img_625",
+      "alt": "Speech bubble surrounded by Amazon, Google and Apple logos"
+    },
+    {
+      "id": 371,
+      "originalId": "img_626",
+      "alt": "Examples of learned gaits acquired on a variety of real-world terrains"
+    },
+    {
+      "id": 372,
+      "originalId": "img_627",
+      "alt": "Artist copying the painting called The Dance Lesson by Edward Degas at the National Gallery Museum"
+    },
+    {
+      "id": 373,
+      "originalId": "img_632",
+      "alt": "Excerpts from NIST AI Risk Management Framework"
+    },
+    {
+      "id": 374,
+      "originalId": "img_633",
+      "alt": "Illustration of an oasis in the middle of a field covered in snow"
+    },
+    {
+      "id": 375,
+      "originalId": "img_634",
+      "alt": "Illustration of neural networks portrayed as pines and footsteps seen from the top"
+    },
+    {
+      "id": 376,
+      "originalId": "img_635",
+      "alt": "Illustration of an elf workshop creating a red toy car from a description (channeling AI generated images)"
+    },
+    {
+      "id": 377,
+      "originalId": "img_636",
+      "alt": "Illustration of The Grinch's hands coding on a tablet"
+    },
+    {
+      "id": 378,
+      "originalId": "img_637",
+      "alt": "Illustration of a snowman with a top hat and glasses"
+    },
+    {
+      "id": 379,
+      "originalId": "img_639",
+      "alt": "Illustration of a person shoveling snow with the help of a flamethrower"
+    },
+    {
+      "id": 380,
+      "originalId": "img_640",
+      "alt": "Illustration of three deers doing holiday household chores: washing a champagne flute, cooking pie and wrapping a gift"
+    },
+    {
+      "id": 381,
+      "originalId": "img_641",
+      "alt": "NeuralGiftNetwork-4a_660px"
+    },
+    {
+      "id": 382,
+      "originalId": "img_642",
+      "alt": "Screen Shot 2021-12-21 at 4.32.38 PM copy"
+    },
+    {
+      "id": 383,
+      "originalId": "img_643",
+      "alt": "SmallerTown-BiggerTree_600px"
+    },
+    {
+      "id": 384,
+      "originalId": "img_644",
+      "alt": "DeerChorus3_600x338px"
+    },
+    {
+      "id": 385,
+      "originalId": "img_645",
+      "alt": "CoffeeMugDecor-600x338px"
+    },
+    {
+      "id": 386,
+      "originalId": "img_646",
+      "alt": "Screen Shot 2021-12-21 at 9.09.03 AM copy"
+    },
+    {
+      "id": 387,
+      "originalId": "img_647",
+      "alt": "Andrew Ng holding a cup, small christmas tree behind"
+    },
+    {
+      "id": 388,
+      "originalId": "img_648",
+      "alt": "Fireplace"
+    },
+    {
+      "id": 389,
+      "originalId": "img_649",
+      "alt": "Two reindeers with masks on a snowy night"
+    },
+    {
+      "id": 390,
+      "originalId": "img_650",
+      "alt": "Dozens of snowmen with different characteristics"
+    },
+    {
+      "id": 391,
+      "originalId": "img_651",
+      "alt": "Tree farm dataset"
+    },
+    {
+      "id": 392,
+      "originalId": "img_652",
+      "alt": "Group of people having a snowball fight and covering with a giant Facebook like button"
+    },
+    {
+      "id": 393,
+      "originalId": "img_653",
+      "alt": "Doctor examining a snowman holding a broom"
+    },
+    {
+      "id": 394,
+      "originalId": "img_654",
+      "alt": "Bookstack and wrapping paper"
+    },
+    {
+      "id": 395,
+      "originalId": "img_655",
+      "alt": "Illustration of Christmas gifts"
+    },
+    {
+      "id": 396,
+      "originalId": "img_656",
+      "alt": "Illustration of a fireplace with \"Happy holidays\" cards in English, Spanish and French"
+    },
+    {
+      "id": 397,
+      "originalId": "img_657",
+      "alt": "Illustration of a reindeer with security cameras pointing at it"
+    },
+    {
+      "id": 398,
+      "originalId": "img_658",
+      "alt": "Sled on the snow"
+    },
+    {
+      "id": 399,
+      "originalId": "img_659",
+      "alt": "Illustration of three identical reindeers"
+    },
+    {
+      "id": 400,
+      "originalId": "img_660",
+      "alt": "Illustration of a crystal snowball"
+    },
+    {
+      "id": 401,
+      "originalId": "img_661",
+      "alt": "Illustration of two people playing a snowball fight"
+    },
+    {
+      "id": 402,
+      "originalId": "img_662",
+      "alt": "Series of spreadsheets with different data"
+    },
+    {
+      "id": 403,
+      "originalId": "img_663",
+      "alt": "Animated video showing a system to interpret electrical impulses from the brain as words"
+    },
+    {
+      "id": 404,
+      "originalId": "img_664",
+      "alt": "Amazon delivery driver working"
+    },
+    {
+      "id": 405,
+      "originalId": "img_666",
+      "alt": "Series of images showing how single trained network generates 3D reconstructions of multiple scenes"
+    },
+    {
+      "id": 406,
+      "originalId": "img_667",
+      "alt": "Forbidden sign over a robot's hand solving a Rubik's Cube"
+    },
+    {
+      "id": 407,
+      "originalId": "img_668",
+      "alt": "Men on either side of Blue Nile River in Ethiopia pull each other across the broken bridge by a rope"
+    },
+    {
+      "id": 408,
+      "originalId": "img_670",
+      "alt": "Face recognition system identifying a person wearing a mask"
+    },
+    {
+      "id": 409,
+      "originalId": "img_671",
+      "alt": "Brains and neural signals reading"
+    },
+    {
+      "id": 410,
+      "originalId": "img_672",
+      "alt": "Excerpts from Newspaper Navigator"
+    },
+    {
+      "id": 411,
+      "originalId": "img_674",
+      "alt": "Data related to reinforcement learning and optimization of worker productivity and income equality"
+    },
+    {
+      "id": 412,
+      "originalId": "img_675",
+      "alt": "Data and graphs related to teacher networks"
+    },
+    {
+      "id": 413,
+      "originalId": "img_676",
+      "alt": "Data related to neural networks"
+    },
+    {
+      "id": 414,
+      "originalId": "img_684",
+      "alt": "Younes Murri teaching class"
+    },
+    {
+      "id": 415,
+      "originalId": "img_685",
+      "alt": "Image showing how brain activity synthesizes speech"
+    },
+    {
+      "id": 416,
+      "originalId": "img_686",
+      "alt": "Example of adversarial patches against YOLOv2"
+    },
+    {
+      "id": 417,
+      "originalId": "img_687",
+      "alt": "Musicians' names connected"
+    },
+    {
+      "id": 418,
+      "originalId": "img_689",
+      "alt": "Heat map visualisations using integrated gradient method"
+    },
+    {
+      "id": 419,
+      "originalId": "img_690",
+      "alt": "Diagram showing causes of measured frequency of driving at night"
+    },
+    {
+      "id": 420,
+      "originalId": "img_697",
+      "alt": "Hot air balloons and spaceship departing"
+    },
+    {
+      "id": 421,
+      "originalId": "img_698",
+      "alt": "Bat and viruses symbols"
+    },
+    {
+      "id": 422,
+      "originalId": "img_699",
+      "alt": "Someone ordering a cab service with an app"
+    },
+    {
+      "id": 423,
+      "originalId": "img_701",
+      "alt": "Doctors in the OR during surgery"
+    },
+    {
+      "id": 424,
+      "originalId": "img_702",
+      "alt": "Shifted Patch Tokenization diagram"
+    },
+    {
+      "id": 425,
+      "originalId": "img_703",
+      "alt": "Screen Shot 2021-11-10 at 10.25.02 AM copy"
+    },
+    {
+      "id": 426,
+      "originalId": "img_704",
+      "alt": "ISOMORPHIC"
+    },
+    {
+      "id": 427,
+      "originalId": "img_705",
+      "alt": "AZURE2"
+    },
+    {
+      "id": 428,
+      "originalId": "img_707",
+      "alt": "UNFACE3"
+    },
+    {
+      "id": 429,
+      "originalId": "img_708",
+      "alt": "KEYPOINTSv2-1"
+    },
+    {
+      "id": 430,
+      "originalId": "img_715",
+      "alt": "Illustration of two people greeting each other in two languages: English and Python"
+    },
+    {
+      "id": 431,
+      "originalId": "img_716",
+      "alt": "WGA strike participant holding a picket sign"
+    },
+    {
+      "id": 432,
+      "originalId": "img_717",
+      "alt": "Animation showing the Anthropic and Amazon logos with the dollar sign"
+    },
+    {
+      "id": 433,
+      "originalId": "img_719",
+      "alt": "A YouTube Short showing an edited video of the Paris Fashion Week featuring penguins"
+    },
+    {
+      "id": 434,
+      "originalId": "img_720",
+      "alt": "Fused swarm-box-violinplot that captures HCR metrics"
+    },
+    {
+      "id": 435,
+      "originalId": "img_733",
+      "alt": "Labeling training data charts"
+    },
+    {
+      "id": 436,
+      "originalId": "img_734",
+      "alt": "Graphs with data related to AI use cases"
+    },
+    {
+      "id": 437,
+      "originalId": "img_735",
+      "alt": "Example of a crowd size estimate"
+    },
+    {
+      "id": 438,
+      "originalId": "img_737",
+      "alt": "Face recognition system working on a bear"
+    },
+    {
+      "id": 439,
+      "originalId": "img_738",
+      "alt": "Screen capture of a Semantic Scholar search with TLDR summaries generated by AI"
+    },
+    {
+      "id": 440,
+      "originalId": "img_751",
+      "alt": "Left: Panda drawn by Andrew Ng in 10 minutes | Right: Panda generated by Stable Diffusion in seconds"
+    },
+    {
+      "id": 441,
+      "originalId": "img_752",
+      "alt": "2022 Pie & AI Ambassadors with headshots of each of them"
+    },
+    {
+      "id": 442,
+      "originalId": "img_753",
+      "alt": "Captures from PromptBase"
+    },
+    {
+      "id": 443,
+      "originalId": "img_754",
+      "alt": "Capture of Honorlock, an AI-powered software designed to catch students who cheat on academic examinations"
+    },
+    {
+      "id": 444,
+      "originalId": "img_756",
+      "alt": "App that monitors machinery"
+    },
+    {
+      "id": 445,
+      "originalId": "img_757",
+      "alt": "Information related to Semi-Parametric Editing with a Retrieval-Augmented Counterfactual Model (SERAC)"
+    },
+    {
+      "id": 446,
+      "originalId": "img_758",
+      "alt": "Illustration of Andrew Ng on a computer searching for \"Panda bear\" and getting a Paddington instead"
+    },
+    {
+      "id": 447,
+      "originalId": "img_759",
+      "alt": "Shot of Computer Processor Production Line at Advanced Semiconductor Foundry in Bright Environment"
+    },
+    {
+      "id": 448,
+      "originalId": "img_760",
+      "alt": "Series of images showing different AI tools for farmers"
+    },
+    {
+      "id": 449,
+      "originalId": "img_762",
+      "alt": "AI-generated image of Joe Rogan interviewing Steve Jobs"
+    },
+    {
+      "id": 450,
+      "originalId": "img_763",
+      "alt": "Technical components of No Language Left Behind and how they fit together"
+    },
+    {
+      "id": 451,
+      "originalId": "img_789",
+      "alt": "Screen Shot 2021-04-28 at 9.42.25 AM copy"
+    },
+    {
+      "id": 452,
+      "originalId": "img_790",
+      "alt": "Forbidden sign over security cameras, handprint and face recognition system"
+    },
+    {
+      "id": 453,
+      "originalId": "img_791",
+      "alt": "Tractable app determining the cost of a car's damage"
+    },
+    {
+      "id": 454,
+      "originalId": "img_793",
+      "alt": "Diagram showing how Project Debater works"
+    },
+    {
+      "id": 455,
+      "originalId": "img_794",
+      "alt": "Timeline for biomedical AI projects"
+    },
+    {
+      "id": 456,
+      "originalId": "img_795",
+      "alt": "Screen Shot 2022-03-16 at 1.09.39 PM"
+    },
+    {
+      "id": 457,
+      "originalId": "img_796",
+      "alt": "DEEPFAKE"
+    },
+    {
+      "id": 458,
+      "originalId": "img_797",
+      "alt": "GAMBLING"
+    },
+    {
+      "id": 459,
+      "originalId": "img_799",
+      "alt": "PIGS"
+    },
+    {
+      "id": 460,
+      "originalId": "img_800",
+      "alt": "ezgif.com-gif-maker (16)-1"
+    },
+    {
+      "id": 461,
+      "originalId": "img_801",
+      "alt": "People hugging"
+    },
+    {
+      "id": 462,
+      "originalId": "img_802",
+      "alt": "Word cloud representing distribution of BIG bench tasks"
+    },
+    {
+      "id": 463,
+      "originalId": "img_803",
+      "alt": "Windmills"
+    },
+    {
+      "id": 464,
+      "originalId": "img_805",
+      "alt": "iPhone app"
+    },
+    {
+      "id": 465,
+      "originalId": "img_806",
+      "alt": "Diagram DeepNet"
+    },
+    {
+      "id": 466,
+      "originalId": "img_807",
+      "alt": "Screen Shot 2022-02-23 at 12.18.36 PM"
+    },
+    {
+      "id": 467,
+      "originalId": "img_808",
+      "alt": "ezgif.com-gif-maker (13)-1"
+    },
+    {
+      "id": 468,
+      "originalId": "img_809",
+      "alt": "GAUGES"
+    },
+    {
+      "id": 469,
+      "originalId": "img_811",
+      "alt": "ezgif.com-gif-maker (4)-3"
+    },
+    {
+      "id": 470,
+      "originalId": "img_812",
+      "alt": "ezgif.com-gif-maker (17)-1"
+    },
+    {
+      "id": 471,
+      "originalId": "img_827",
+      "alt": "Andrew Ng speaking at TED AI, October 17, 2023"
+    },
+    {
+      "id": 472,
+      "originalId": "img_833",
+      "alt": "Microscope and Plato's head statue"
+    },
+    {
+      "id": 473,
+      "originalId": "img_834",
+      "alt": "Scrolling text"
+    },
+    {
+      "id": 474,
+      "originalId": "img_835",
+      "alt": "Yellow drone"
+    },
+    {
+      "id": 475,
+      "originalId": "img_837",
+      "alt": "Purple image with the META logo"
+    },
+    {
+      "id": 476,
+      "originalId": "img_840",
+      "alt": "Different logos from companies like OpenAI, Stability.ai, Jasper and the dollar sign"
+    },
+    {
+      "id": 477,
+      "originalId": "img_841",
+      "alt": "Explanation of different models related to divisive issues in the US"
+    },
+    {
+      "id": 478,
+      "originalId": "img_843",
+      "alt": "Computer vision model detecting grain-storage facilities in an aerial photo"
+    },
+    {
+      "id": 479,
+      "originalId": "img_844",
+      "alt": "Plot demonstrating the relative sizes of parallel and monolingual examples"
+    },
+    {
+      "id": 480,
+      "originalId": "img_852",
+      "alt": "Screen capture of Galactica demo"
+    },
+    {
+      "id": 481,
+      "originalId": "img_853",
+      "alt": "Screen capture of question in DeviantArt about consent of the use of artwork by AI datasets"
+    },
+    {
+      "id": 482,
+      "originalId": "img_854",
+      "alt": "Charts showing performance scaling of TPU vs GPU on MLPerf-Transformer and Cerebras GPT-3 XL Performance"
+    },
+    {
+      "id": 483,
+      "originalId": "img_856",
+      "alt": "Model that defeats KataGo, an open source Go-playing system"
+    },
+    {
+      "id": 484,
+      "originalId": "img_857",
+      "alt": "Charts of benchmark on medium-sized datasets"
+    },
+    {
+      "id": 485,
+      "originalId": "img_858",
+      "alt": "Iteration process chart"
+    },
+    {
+      "id": 486,
+      "originalId": "img_859",
+      "alt": "Panda on a swing"
+    },
+    {
+      "id": 487,
+      "originalId": "img_860",
+      "alt": "Charts from the Artificial Intelligence & Machine Learning Report"
+    },
+    {
+      "id": 488,
+      "originalId": "img_861",
+      "alt": "FourthBrain 2 year anniversary banner"
+    },
+    {
+      "id": 489,
+      "originalId": "img_862",
+      "alt": "Photographs of the Moon"
+    },
+    {
+      "id": 490,
+      "originalId": "img_863",
+      "alt": "Illustration of the Dialogue Transformer Language Model (DLM)"
+    },
+    {
+      "id": 491,
+      "originalId": "img_864",
+      "alt": "Iteration process chart"
+    },
+    {
+      "id": 492,
+      "originalId": "img_865",
+      "alt": "Darts board"
+    },
+    {
+      "id": 493,
+      "originalId": "img_866",
+      "alt": "Skeletal formula of the (S) enantiomer of VX"
+    },
+    {
+      "id": 494,
+      "originalId": "img_867",
+      "alt": "Nvidia Chip"
+    },
+    {
+      "id": 495,
+      "originalId": "img_869",
+      "alt": "Indigenous Knowledge Graph"
+    },
+    {
+      "id": 496,
+      "originalId": "img_870",
+      "alt": "ezgif.com-gif-maker (19)-1"
+    },
+    {
+      "id": 497,
+      "originalId": "img_885",
+      "alt": "Chart showing the number of AI/ML devices approved by FDA by year from 2012 to 2023"
+    },
+    {
+      "id": 498,
+      "originalId": "img_886",
+      "alt": "Sequence of industrial machines working"
+    },
+    {
+      "id": 499,
+      "originalId": "img_888",
+      "alt": "Diagram showing how open source tool Giskard works"
+    },
+    {
+      "id": 500,
+      "originalId": "img_889",
+      "alt": "Figure showing how PaLM-E operates on multimodal sentences"
+    },
+    {
+      "id": 501,
+      "originalId": "img_890",
+      "alt": "Andrew Ng's TED Talk 2022"
+    },
+    {
+      "id": 502,
+      "originalId": "img_891",
+      "alt": "AI system recognizes normal chest x-rays"
+    },
+    {
+      "id": 503,
+      "originalId": "img_892",
+      "alt": "Search engine"
+    },
+    {
+      "id": 504,
+      "originalId": "img_894",
+      "alt": "AI-generated portraits"
+    },
+    {
+      "id": 505,
+      "originalId": "img_895",
+      "alt": "Deep Symbolic Regression"
+    },
+    {
+      "id": 506,
+      "originalId": "img_896",
+      "alt": "Photograph of light at the end of a tunnel"
+    },
+    {
+      "id": 507,
+      "originalId": "img_897",
+      "alt": "Excerpt from a video showing what Atarraya's Shrimpbox looks like"
+    },
+    {
+      "id": 508,
+      "originalId": "img_898",
+      "alt": "A series of screen captures from the Social Sentinel platform"
+    },
+    {
+      "id": 509,
+      "originalId": "img_900",
+      "alt": "Some results from a study performed by the market analyst Forrester"
+    },
+    {
+      "id": 510,
+      "originalId": "img_901",
+      "alt": "Dependency between compute budget and number of parameters"
+    },
+    {
+      "id": 511,
+      "originalId": "img_902",
+      "alt": "Figure showing how researchers obtained the Alpaca model"
+    },
+    {
+      "id": 512,
+      "originalId": "img_903",
+      "alt": "AI-guided robotic arms crafting, forming and polishing metal"
+    },
+    {
+      "id": 513,
+      "originalId": "img_904",
+      "alt": "Phone showing different features of an app"
+    },
+    {
+      "id": 514,
+      "originalId": "img_906",
+      "alt": "African startup Lelapa logo"
+    },
+    {
+      "id": 515,
+      "originalId": "img_907",
+      "alt": "Example of interactive editing sessions with Meta's text generator PEER"
+    },
+    {
+      "id": 516,
+      "originalId": "img_908",
+      "alt": "Graph US Three-month treasury bill secondary mearket interest rate, dicsount basis"
+    },
+    {
+      "id": 517,
+      "originalId": "img_909",
+      "alt": "Clasification of different bird species"
+    },
+    {
+      "id": 518,
+      "originalId": "img_910",
+      "alt": "Data insights"
+    },
+    {
+      "id": 519,
+      "originalId": "img_912",
+      "alt": "Diagram about probability scores"
+    },
+    {
+      "id": 520,
+      "originalId": "img_913",
+      "alt": "Diagram explaining the variational neural cellular automata"
+    },
+    {
+      "id": 521,
+      "originalId": "img_914",
+      "alt": "Andrew Ng speaking at the National Intergovernmental Audit Forum about auditing AI systems"
+    },
+    {
+      "id": 522,
+      "originalId": "img_915",
+      "alt": "Man with prosthetic leg walking"
+    },
+    {
+      "id": 523,
+      "originalId": "img_916",
+      "alt": "Graphs and data related to language models and image processing"
+    },
+    {
+      "id": 524,
+      "originalId": "img_917",
+      "alt": "Graphs and data related to AI chips"
+    },
+    {
+      "id": 525,
+      "originalId": "img_919",
+      "alt": "Data related to Covid-19 symptoms prediction"
+    },
+    {
+      "id": 526,
+      "originalId": "img_920",
+      "alt": "Colossus Mk2, processor by Graphcore"
+    },
+    {
+      "id": 527,
+      "originalId": "img_921",
+      "alt": "The price of shares in video game retailer GameStop (NYSE: GME)"
+    },
+    {
+      "id": 528,
+      "originalId": "img_922",
+      "alt": "GPT-Neo related animation"
+    },
+    {
+      "id": 529,
+      "originalId": "img_923",
+      "alt": "Examples of InstaHide scrambling images"
+    },
+    {
+      "id": 530,
+      "originalId": "img_925",
+      "alt": "Information related to a deep learning system developed by Sandia National Laboratories"
+    },
+    {
+      "id": 531,
+      "originalId": "img_926",
+      "alt": "Graphs and data related to recurrent neural nets (RNNs)"
+    },
+    {
+      "id": 532,
+      "originalId": "img_927",
+      "alt": "Some results from AI Career Pathways report"
+    },
+    {
+      "id": 533,
+      "originalId": "img_928",
+      "alt": "ImageNet face recognition labels on a picture"
+    },
+    {
+      "id": 534,
+      "originalId": "img_929",
+      "alt": "Single Headed Attention RNN (SHA-RNN)"
+    },
+    {
+      "id": 535,
+      "originalId": "img_930",
+      "alt": "AI-generated face"
+    },
+    {
+      "id": 536,
+      "originalId": "img_932",
+      "alt": "Breast cancer screening"
+    },
+    {
+      "id": 537,
+      "originalId": "img_933",
+      "alt": "Excerpt from 2019 Artificial Intelligence Index"
+    },
+    {
+      "id": 538,
+      "originalId": "img_934",
+      "alt": "EfficientDet explained"
+    },
+    {
+      "id": 539,
+      "originalId": "img_947",
+      "alt": "Colorful flower meadow"
+    },
+    {
+      "id": 540,
+      "originalId": "img_948",
+      "alt": "ChatGPT on the right with a forbidden sign as different logos appear on the left"
+    },
+    {
+      "id": 541,
+      "originalId": "img_949",
+      "alt": "DoNotPay's system that autonomously navigates phone menus and converses with customer service representatives working"
+    },
+    {
+      "id": 542,
+      "originalId": "img_950",
+      "alt": "AI Fund's webinar \"Venture Studios: The Express Lane for Entrepreneurs to Build Successful Startups\" banner ad"
+    },
+    {
+      "id": 543,
+      "originalId": "img_951",
+      "alt": "Madison Square Garden subway station sign"
+    },
+    {
+      "id": 544,
+      "originalId": "img_952",
+      "alt": "High-level overview of the STEGO architecture at train and prediction steps"
+    },
+    {
+      "id": 545,
+      "originalId": "img_953",
+      "alt": "Concept cloud of the LinkedIn and Twitter discussions generated by AI Fund senior AI advisor Carlos Alzate"
+    },
+    {
+      "id": 546,
+      "originalId": "img_954",
+      "alt": "3 graphs showing projections of data usage. Each one shows two extrapolations of data usage."
+    },
+    {
+      "id": 547,
+      "originalId": "img_955",
+      "alt": "Outline of the text-embedding and inversion process."
+    },
+    {
+      "id": 548,
+      "originalId": "img_957",
+      "alt": "Some results from the 2022 AI Strategy Report survey by MIT Sloan Management Review"
+    },
+    {
+      "id": 549,
+      "originalId": "img_958",
+      "alt": "Moving slide with information about AWS AI Service Cards"
+    },
+    {
+      "id": 550,
+      "originalId": "img_959",
+      "alt": "Blue globe and several pins around it on a pink background"
+    },
+    {
+      "id": 551,
+      "originalId": "img_960",
+      "alt": "Gato’s performance on simulated control tasks | Image captions generated by Gato"
+    },
+    {
+      "id": 552,
+      "originalId": "img_961",
+      "alt": "Factory workers getting ready to work"
+    },
+    {
+      "id": 553,
+      "originalId": "img_963",
+      "alt": "US map with locations of Planned Parenthood"
+    },
+    {
+      "id": 554,
+      "originalId": "img_964",
+      "alt": "Architecture of CXV"
+    },
+    {
+      "id": 555,
+      "originalId": "img_965",
+      "alt": "Screen Shot 2021-11-03 at 9.37.11 AM copy"
+    },
+    {
+      "id": 556,
+      "originalId": "img_966",
+      "alt": "ezgif.com-gif-maker - 2021-11-03T100016.431"
+    },
+    {
+      "id": 557,
+      "originalId": "img_967",
+      "alt": "TENSOR"
+    },
+    {
+      "id": 558,
+      "originalId": "img_969",
+      "alt": "MERLOTv2"
+    },
+    {
+      "id": 559,
+      "originalId": "img_970",
+      "alt": "DAVINCI"
+    },
+    {
+      "id": 560,
+      "originalId": "img_971",
+      "alt": "Screen Shot 2021-10-13 at 11.14.15 AM copy"
+    },
+    {
+      "id": 561,
+      "originalId": "img_972",
+      "alt": "ezgif.com-gif-maker - 2021-10-12T111718.458"
+    },
+    {
+      "id": 562,
+      "originalId": "img_973",
+      "alt": "NESTED"
+    },
+    {
+      "id": 563,
+      "originalId": "img_975",
+      "alt": "MUM"
+    },
+    {
+      "id": 564,
+      "originalId": "img_976",
+      "alt": "BEETHOVEN"
+    },
+    {
+      "id": 565,
+      "originalId": "img_977",
+      "alt": "Cartoon about data"
+    },
+    {
+      "id": 566,
+      "originalId": "img_978",
+      "alt": "AI system monitoring urban traffic"
+    },
+    {
+      "id": 567,
+      "originalId": "img_979",
+      "alt": "Video showing AI working on a video-game to blast virtual enemies at superhuman speed"
+    },
+    {
+      "id": 568,
+      "originalId": "img_981",
+      "alt": "Frozen Pretrained Transformer (FPT) explained"
+    },
+    {
+      "id": 569,
+      "originalId": "img_982",
+      "alt": "Series of images related to face recognition protocols for federal agencies"
+    },
+    {
+      "id": 570,
+      "originalId": "img_983",
+      "alt": "Hand-drawn letter with a heart and signed by Andrew"
+    },
+    {
+      "id": 571,
+      "originalId": "img_984",
+      "alt": "Video showing ShotSpotter in action"
+    },
+    {
+      "id": 572,
+      "originalId": "img_985",
+      "alt": "Animation showing AlphaFold working"
+    },
+    {
+      "id": 573,
+      "originalId": "img_987",
+      "alt": "Omega Timing screenshots showing different sports data"
+    },
+    {
+      "id": 574,
+      "originalId": "img_988",
+      "alt": "Simpler multilayer neural network"
+    },
+    {
+      "id": 575,
+      "originalId": "img_989",
+      "alt": "Facebook like and dislike buttons"
+    },
+    {
+      "id": 576,
+      "originalId": "img_990",
+      "alt": "Data related to DeepCE, a system designed to predict how particular drugs will influence the amounts of RNA"
+    },
+    {
+      "id": 577,
+      "originalId": "img_991",
+      "alt": "Operation of a hiring software which evaluates candidates through simple interactive games"
+    },
+    {
+      "id": 578,
+      "originalId": "img_993",
+      "alt": "Homer Simpson talking to Anakin Skywalker in a clip from Star Wars: The Phantom Menace."
+    },
+    {
+      "id": 579,
+      "originalId": "img_994",
+      "alt": "Graphs and data related to ReLabel, a technique that labels any random crop of any image."
+    },
+    {
+      "id": 580,
+      "originalId": "img_995",
+      "alt": "Many research papers"
+    },
+    {
+      "id": 581,
+      "originalId": "img_996",
+      "alt": "Covid Moonshot animation"
+    },
+    {
+      "id": 582,
+      "originalId": "img_997",
+      "alt": "Robotaxi in different angles"
+    },
+    {
+      "id": 583,
+      "originalId": "img_999",
+      "alt": "Data related to a technique that uses a neural network to compute the progress of a fluid dynamics simulation"
+    },
+    {
+      "id": 584,
+      "originalId": "img_1000",
+      "alt": "Transkribus transcribing centuries-old letters and manuscripts"
+    },
+    {
+      "id": 585,
+      "originalId": "img_1001",
+      "alt": "Jupyter Notebooks"
+    },
+    {
+      "id": 586,
+      "originalId": "img_1002",
+      "alt": "Data Collection"
+    },
+    {
+      "id": 587,
+      "originalId": "img_1003",
+      "alt": "Machine Learning for animal videos"
+    },
+    {
+      "id": 588,
+      "originalId": "img_1005",
+      "alt": "Model Training"
+    },
+    {
+      "id": 589,
+      "originalId": "img_1006",
+      "alt": "Machine Learning boosts renewable fuels"
+    },
+    {
+      "id": 590,
+      "originalId": "img_1007",
+      "alt": "Cartoon about traditional software and AI"
+    },
+    {
+      "id": 591,
+      "originalId": "img_1008",
+      "alt": "Video showing traffic signals controlled by AI"
+    },
+    {
+      "id": 592,
+      "originalId": "img_1009",
+      "alt": "Automated player learning by watching recorded gameplay"
+    },
+    {
+      "id": 593,
+      "originalId": "img_1011",
+      "alt": "New approach to automated real-estate assessment"
+    },
+    {
+      "id": 594,
+      "originalId": "img_1012",
+      "alt": "Series of imagen showing how an insect-sorting robot works"
+    },
+    {
+      "id": 595,
+      "originalId": "img_1014",
+      "alt": "Casino game"
+    },
+    {
+      "id": 596,
+      "originalId": "img_1015",
+      "alt": "Animation alternating sad and happy emojis"
+    },
+    {
+      "id": 597,
+      "originalId": "img_1016",
+      "alt": "Image recognition examples"
+    },
+    {
+      "id": 598,
+      "originalId": "img_1017",
+      "alt": "United States Capitol"
+    },
+    {
+      "id": 599,
+      "originalId": "img_1019",
+      "alt": "Series of images describing how an AI-powered collar for elephants operates"
+    },
+    {
+      "id": 600,
+      "originalId": "img_1020",
+      "alt": "Results of Algorithmia's survey of 750 business leaders"
+    },
+    {
+      "id": 601,
+      "originalId": "img_1021",
+      "alt": "Bodiam Castle at East Sussex, England"
+    },
+    {
+      "id": 602,
+      "originalId": "img_1022",
+      "alt": "Graph Average across 14 NLP Tasks parameters versus Average Accuracy"
+    },
+    {
+      "id": 603,
+      "originalId": "img_1023",
+      "alt": "Robot nurse helper"
+    },
+    {
+      "id": 604,
+      "originalId": "img_1025",
+      "alt": "Musical waves passing by our brain"
+    },
+    {
+      "id": 605,
+      "originalId": "img_1026",
+      "alt": "Didactic diagram of a hypothetical embedded-model architecture"
+    },
+    {
+      "id": 606,
+      "originalId": "img_1027",
+      "alt": "Poker cards"
+    },
+    {
+      "id": 607,
+      "originalId": "img_1028",
+      "alt": "Twitter logo scaping from a cage"
+    },
+    {
+      "id": 608,
+      "originalId": "img_1029",
+      "alt": "A red Facebook dislike button surrounded by dozens of Facebook like buttons"
+    },
+    {
+      "id": 609,
+      "originalId": "img_1030",
+      "alt": "Andrew Ng's 'How to Build Your Career in AI' eBook cover"
+    },
+    {
+      "id": 610,
+      "originalId": "img_1031",
+      "alt": "Video showing Apple's self-driving car"
+    },
+    {
+      "id": 611,
+      "originalId": "img_1032",
+      "alt": "Sequence showing how FIFA's Video Assisted Review (VAR) works"
+    },
+    {
+      "id": 612,
+      "originalId": "img_1034",
+      "alt": "Sequence of cellphones showing a photograph turned into art on Lensa AI app"
+    },
+    {
+      "id": 613,
+      "originalId": "img_1035",
+      "alt": "Diagram explaining Atlas, a retrieval-augmented language model that exhibits strong few-shot performance on knowledge tasks"
+    },
+    {
+      "id": 614,
+      "originalId": "img_1036",
+      "alt": "US Federal funds effective interest rate graph"
+    },
+    {
+      "id": 615,
+      "originalId": "img_1037",
+      "alt": "two faces diagrams"
+    },
+    {
+      "id": 616,
+      "originalId": "img_1038",
+      "alt": "wesite content insight seearch"
+    },
+    {
+      "id": 617,
+      "originalId": "img_1040",
+      "alt": "four smartphones showing different steps of an app"
+    },
+    {
+      "id": 618,
+      "originalId": "img_1041",
+      "alt": "neural networks diagram"
+    },
+    {
+      "id": 619,
+      "originalId": "img_1042",
+      "alt": "Chatbot emoji with a happy and an angry face"
+    },
+    {
+      "id": 620,
+      "originalId": "img_1043",
+      "alt": "Bing logo talking to a therapist during a therapy session"
+    },
+    {
+      "id": 621,
+      "originalId": "img_1044",
+      "alt": "Drone with thermal night vision camera view of soldiers walking on a field"
+    },
+    {
+      "id": 622,
+      "originalId": "img_1045",
+      "alt": "DataHeroes library to build high-quality machine learning models banner ad"
+    },
+    {
+      "id": 623,
+      "originalId": "img_1046",
+      "alt": "Security cameras somewhere around the Red Square in Moscow, Russia"
+    },
+    {
+      "id": 624,
+      "originalId": "img_1047",
+      "alt": "Architecture for PointGoal Navigation on a legged robot"
+    },
+    {
+      "id": 625,
+      "originalId": "img_1048",
+      "alt": "Landing AI's computer vision platform, LandingLens"
+    },
+    {
+      "id": 626,
+      "originalId": "img_1049",
+      "alt": "Landing a Job in AI blog article banner ad"
+    },
+    {
+      "id": 627,
+      "originalId": "img_1050",
+      "alt": "Laptop displaying the Baidu logo and tablet displaying OpenAI's ChatGPT website homepage"
+    },
+    {
+      "id": 628,
+      "originalId": "img_1051",
+      "alt": "Buzzfeed's AI-generated quizzes"
+    },
+    {
+      "id": 629,
+      "originalId": "img_1052",
+      "alt": "Landing AI's LandingLens banner ad"
+    },
+    {
+      "id": 630,
+      "originalId": "img_1053",
+      "alt": "Different screen captures of Replika's website"
+    },
+    {
+      "id": 631,
+      "originalId": "img_1054",
+      "alt": "Different illustration showing the application of PCA to color populations"
+    },
+    {
+      "id": 632,
+      "originalId": "img_1055",
+      "alt": "Illustration of two red and blue toy robots fighting with a yellow background"
+    },
+    {
+      "id": 633,
+      "originalId": "img_1056",
+      "alt": "I-Chiao Lin pictured with another person using a VR headset"
+    },
+    {
+      "id": 634,
+      "originalId": "img_1057",
+      "alt": "Participant responses (Likert-scale) to post-survey questions about belief about OpenAI's Codex"
+    },
+    {
+      "id": 635,
+      "originalId": "img_1058",
+      "alt": "Footage of Chinese naval ship The Zhuhaiyun"
+    },
+    {
+      "id": 636,
+      "originalId": "img_1059",
+      "alt": "The Robust & Responsible AI Summit banner ad"
+    },
+    {
+      "id": 637,
+      "originalId": "img_1060",
+      "alt": "Screen capture of KokoBot having a conversation with a patient"
+    },
+    {
+      "id": 638,
+      "originalId": "img_1061",
+      "alt": "Chart showing the mine supply, recycling and supply gap of different minerals' production from 2025 to 2050"
+    },
+    {
+      "id": 639,
+      "originalId": "img_1062",
+      "alt": "US Capitol during winter"
+    },
+    {
+      "id": 640,
+      "originalId": "img_1063",
+      "alt": "Face detection being used on a person during assault on the U.S. Capitol"
+    },
+    {
+      "id": 641,
+      "originalId": "img_1064",
+      "alt": "AI-generated images with the model DALL-E"
+    },
+    {
+      "id": 642,
+      "originalId": "img_1065",
+      "alt": "Graphs comparing SGD + Momentum, Adam and AdaBelief"
+    },
+    {
+      "id": 643,
+      "originalId": "img_1067",
+      "alt": "Covid Fast Fax operating"
+    },
+    {
+      "id": 644,
+      "originalId": "img_1068",
+      "alt": "Graphs related to world models"
+    },
+    {
+      "id": 645,
+      "originalId": "img_1069",
+      "alt": "Chart with percent trust in tech sector vs. business"
+    },
+    {
+      "id": 646,
+      "originalId": "img_1070",
+      "alt": "Blurred human faces in different pictures"
+    },
+    {
+      "id": 647,
+      "originalId": "img_1071",
+      "alt": "Data related to SElf-supERvised (SEER), an image classifier pretrained on uncurated, unlabeled images"
+    },
+    {
+      "id": 648,
+      "originalId": "img_1072",
+      "alt": "Data related to a diagnostic advice received from a machine learning model vs a human expert"
+    },
+    {
+      "id": 649,
+      "originalId": "img_1074",
+      "alt": "Recording unmixed"
+    },
+    {
+      "id": 650,
+      "originalId": "img_1075",
+      "alt": "Examples of image generators using GANsformer"
+    },
+    {
+      "id": 651,
+      "originalId": "img_1076",
+      "alt": "data scrapping tweak"
+    },
+    {
+      "id": 652,
+      "originalId": "img_1077",
+      "alt": "AI in the military"
+    },
+    {
+      "id": 653,
+      "originalId": "img_1079",
+      "alt": "Posters of George Floyd stuck on a glass door"
+    },
+    {
+      "id": 654,
+      "originalId": "img_1080",
+      "alt": "Angry emoji over dozens of Facebook like buttons"
+    },
+    {
+      "id": 655,
+      "originalId": "img_1081",
+      "alt": "Data and information related to shortcut learning"
+    },
+    {
+      "id": 656,
+      "originalId": "img_1082",
+      "alt": "Dishwashing robot working"
+    },
+    {
+      "id": 657,
+      "originalId": "img_1084",
+      "alt": "Self-driving car from the inside"
+    },
+    {
+      "id": 658,
+      "originalId": "img_1085",
+      "alt": "Data related to YOLOv4"
+    },
+    {
+      "id": 659,
+      "originalId": "img_1086",
+      "alt": "Series of pictures of hotels and resorts located in African countries"
+    },
+    {
+      "id": 660,
+      "originalId": "img_1087",
+      "alt": "Calendar pages flying away"
+    },
+    {
+      "id": 661,
+      "originalId": "img_1088",
+      "alt": "Voice recognition tool \"Bleep\" working"
+    },
+    {
+      "id": 662,
+      "originalId": "img_1089",
+      "alt": "Annual list of the most promising private AI companies in different fields"
+    },
+    {
+      "id": 663,
+      "originalId": "img_1091",
+      "alt": "X-ray technique reproducing a painting that had been hidden beneath one of Pablo Picasso’s works"
+    },
+    {
+      "id": 664,
+      "originalId": "img_1092",
+      "alt": "Semantic Similarity Video Retrieval (SVR) working"
+    },
+    {
+      "id": 665,
+      "originalId": "img_1093",
+      "alt": "A/B Test loop for building human insight"
+    },
+    {
+      "id": 666,
+      "originalId": "img_1094",
+      "alt": "Series of images showing a variety of medical AI products"
+    },
+    {
+      "id": 667,
+      "originalId": "img_1095",
+      "alt": "Different data related to the phenomenon called underspecification"
+    },
+    {
+      "id": 668,
+      "originalId": "img_1096",
+      "alt": "Data showing information related to AI strategy status in OECD countries"
+    },
+    {
+      "id": 669,
+      "originalId": "img_1098",
+      "alt": "Art pieces with subjective commentary regarding their emotional impact"
+    },
+    {
+      "id": 670,
+      "originalId": "img_1100",
+      "alt": "Autonomous aircraft taking off and landing"
+    },
+    {
+      "id": 671,
+      "originalId": "img_1102",
+      "alt": "Scanner over a collage of images"
+    },
+    {
+      "id": 672,
+      "originalId": "img_1103",
+      "alt": "Sarah Nasiri, Data Scientist at Delta Airlines"
+    },
+    {
+      "id": 673,
+      "originalId": "img_1104",
+      "alt": "Example of a video produced from a story-like description"
+    },
+    {
+      "id": 674,
+      "originalId": "img_1105",
+      "alt": "Map showing areas likely to have been damaged by Hurricane Leo"
+    },
+    {
+      "id": 675,
+      "originalId": "img_1107",
+      "alt": "List of AI tools used to improve fast food services"
+    },
+    {
+      "id": 676,
+      "originalId": "img_1108",
+      "alt": "Doctor checking a monitor inside an OR"
+    },
+    {
+      "id": 677,
+      "originalId": "img_1109",
+      "alt": "Screen Shot 2022-03-01 at 3.35.19 PM"
+    },
+    {
+      "id": 678,
+      "originalId": "img_1110",
+      "alt": "Screen Shot 2022-02-28 at 5.46.58 PM"
+    },
+    {
+      "id": 679,
+      "originalId": "img_1111",
+      "alt": "TEAMMATES"
+    },
+    {
+      "id": 680,
+      "originalId": "img_1113",
+      "alt": "BROOKINGS"
+    },
+    {
+      "id": 681,
+      "originalId": "img_1114",
+      "alt": "ezgif.com-gif-maker (5)-2"
+    },
+    {
+      "id": 682,
+      "originalId": "img_1115",
+      "alt": "Excerpt from \"The New Colossus\" by Emma Lazarus, cast in a plaque"
+    },
+    {
+      "id": 683,
+      "originalId": "img_1116",
+      "alt": "No-code AI platform"
+    },
+    {
+      "id": 684,
+      "originalId": "img_1117",
+      "alt": "Graphs showing how app Face2Gene works"
+    },
+    {
+      "id": 685,
+      "originalId": "img_1119",
+      "alt": "Stock Market Simulation using cGANs"
+    },
+    {
+      "id": 686,
+      "originalId": "img_1120",
+      "alt": "Excerpts from the fifth annual AI Index from Stanford University’s Institute for Human-Centered AI"
+    },
+    {
+      "id": 687,
+      "originalId": "img_1121",
+      "alt": "Screen Shot 2022-01-05 at 10.38.22 AM copy"
+    },
+    {
+      "id": 688,
+      "originalId": "img_1122",
+      "alt": "ezgif.com-gif-maker - 2021-12-03T184229.220"
+    },
+    {
+      "id": 689,
+      "originalId": "img_1123",
+      "alt": "ezgif.com-gif-maker - 2021-12-14T094136.532"
+    },
+    {
+      "id": 690,
+      "originalId": "img_1125",
+      "alt": "ECONOMISTv2"
+    },
+    {
+      "id": 691,
+      "originalId": "img_1126",
+      "alt": "MILETHICS"
+    },
+    {
+      "id": 692,
+      "originalId": "img_1127",
+      "alt": "Radioactive ASPECT"
+    },
+    {
+      "id": 693,
+      "originalId": "img_1128",
+      "alt": "Location of Pie & AI events"
+    },
+    {
+      "id": 694,
+      "originalId": "img_1129",
+      "alt": "Screen capture showing a Chinese app's food recommendations"
+    },
+    {
+      "id": 695,
+      "originalId": "img_1130",
+      "alt": "Video showing diagnostic system VirtuSense Balance working"
+    },
+    {
+      "id": 696,
+      "originalId": "img_1132",
+      "alt": "Animation showing a simulated football team and how it works"
+    },
+    {
+      "id": 697,
+      "originalId": "img_1133",
+      "alt": "Results of survey about how AI Engineers vs US public feel about ethical issues"
+    },
+    {
+      "id": 698,
+      "originalId": "img_1134",
+      "alt": "Animation of SourceAI working"
+    },
+    {
+      "id": 699,
+      "originalId": "img_1135",
+      "alt": "Series of videos showing AI-powered surveillance inside a bank"
+    },
+    {
+      "id": 700,
+      "originalId": "img_1137",
+      "alt": "Animation showing a methaphorical transition from AI to a green environment"
+    },
+    {
+      "id": 701,
+      "originalId": "img_1138",
+      "alt": "Minecraft video capture"
+    },
+    {
+      "id": 702,
+      "originalId": "img_1139",
+      "alt": "Screen Shot 2021-05-04 at 4.42.17 PM copy"
+    },
+    {
+      "id": 703,
+      "originalId": "img_1140",
+      "alt": "Happy Yellow faces and sad blue faces"
+    },
+    {
+      "id": 704,
+      "originalId": "img_1142",
+      "alt": "Talk-NotTweet_660x337px"
+    },
+    {
+      "id": 705,
+      "originalId": "img_1143",
+      "alt": "ROKFACE"
+    },
+    {
+      "id": 706,
+      "originalId": "img_1144",
+      "alt": "CHATv2"
+    },
+    {
+      "id": 707,
+      "originalId": "img_1146",
+      "alt": "ezgif.com-gif-maker - 2021-11-16T123650.918"
+    },
+    {
+      "id": 708,
+      "originalId": "img_1147",
+      "alt": "NSCAI"
+    },
+    {
+      "id": 709,
+      "originalId": "img_1148",
+      "alt": "Screen capture of WhyLabs functioning"
+    },
+    {
+      "id": 710,
+      "originalId": "img_1149",
+      "alt": "Image of body parts in Hokkien, map showing Hokkien speaking regions across the world and Model architecture of S2ST"
+    },
+    {
+      "id": 711,
+      "originalId": "img_1150",
+      "alt": "Billboards displayed in different spaces and dashboard with data related to a billboard performance"
+    },
+    {
+      "id": 712,
+      "originalId": "img_1151",
+      "alt": "Filtered.ai banner ad for a survey"
+    },
+    {
+      "id": 713,
+      "originalId": "img_1152",
+      "alt": "Series of slides showing different algorithms used by Washington D.C. to streamline their operations"
+    },
+    {
+      "id": 714,
+      "originalId": "img_1153",
+      "alt": "Illustration of the multiresolution hash encoding in 2D"
+    },
+    {
+      "id": 715,
+      "originalId": "img_1154",
+      "alt": "Satellite imagery of suburban homes with backyard pools."
+    },
+    {
+      "id": 716,
+      "originalId": "img_1155",
+      "alt": "Gif shows closeup images of graphics processing units from Nvidia and AMD."
+    },
+    {
+      "id": 717,
+      "originalId": "img_1156",
+      "alt": "Illustrations show how the New York Times' AI-powered paywall works."
+    },
+    {
+      "id": 718,
+      "originalId": "img_1157",
+      "alt": "Illustration shows different self-attention mechanisms used by Transformer-based AI models."
+    },
+    {
+      "id": 719,
+      "originalId": "img_1158",
+      "alt": "Pie & AI event on AI ethics"
+    },
+    {
+      "id": 720,
+      "originalId": "img_1159",
+      "alt": "Excerpt from Ring commercial"
+    },
+    {
+      "id": 721,
+      "originalId": "img_1160",
+      "alt": "Automatically generated text summary"
+    },
+    {
+      "id": 722,
+      "originalId": "img_1161",
+      "alt": "Volcano erupting"
+    },
+    {
+      "id": 723,
+      "originalId": "img_1162",
+      "alt": "Face-swap on Leonardo DiCaprio"
+    },
+    {
+      "id": 724,
+      "originalId": "img_1163",
+      "alt": "Observational dropout"
+    },
+    {
+      "id": 725,
+      "originalId": "img_1164",
+      "alt": "Eric Schmidt on C-Span2"
+    },
+    {
+      "id": 726,
+      "originalId": "img_1165",
+      "alt": "Animated symbol of Covid-19 virus structure"
+    },
+    {
+      "id": 727,
+      "originalId": "img_1166",
+      "alt": "Graph related to imple Contrastive Learning (SimCLR)"
+    },
+    {
+      "id": 728,
+      "originalId": "img_1167",
+      "alt": "Workers in office cubicles"
+    },
+    {
+      "id": 729,
+      "originalId": "img_1169",
+      "alt": "Quantum computing"
+    },
+    {
+      "id": 730,
+      "originalId": "img_1170",
+      "alt": "Info about radioactive data"
+    },
+    {
+      "id": 731,
+      "originalId": "img_1171",
+      "alt": "Clay tablet"
+    },
+    {
+      "id": 732,
+      "originalId": "img_1172",
+      "alt": "Screen Shot 2022-02-02 at 10.08.40 AM"
+    },
+    {
+      "id": 733,
+      "originalId": "img_1173",
+      "alt": "CHIPS-1"
+    },
+    {
+      "id": 734,
+      "originalId": "img_1174",
+      "alt": "ezgif.com-gif-maker-Feb-02-2022-07-52-20-65-PM"
+    },
+    {
+      "id": 735,
+      "originalId": "img_1176",
+      "alt": "SYNTHETICv2"
+    },
+    {
+      "id": 736,
+      "originalId": "img_1177",
+      "alt": "REGS"
+    },
+    {
+      "id": 737,
+      "originalId": "img_1178",
+      "alt": "Hypothesis-Driven thinking chart"
+    },
+    {
+      "id": 738,
+      "originalId": "img_1179",
+      "alt": "Nuclear scientist Mohsen Fakhrizadeh's funeral"
+    },
+    {
+      "id": 739,
+      "originalId": "img_1180",
+      "alt": "Commercial showing Walmart's self-driving delivery vehicles"
+    },
+    {
+      "id": 740,
+      "originalId": "img_1182",
+      "alt": "Animation showing image-to-image style transfer — mapping process"
+    },
+    {
+      "id": 741,
+      "originalId": "img_1183",
+      "alt": "United Nations (UN) logo displayed multiple times"
+    },
+    {
+      "id": 742,
+      "originalId": "img_1184",
+      "alt": "Screen Shot 2021-10-06 at 11.17.27 AM copy"
+    },
+    {
+      "id": 743,
+      "originalId": "img_1185",
+      "alt": "FACEBOOK-1"
+    },
+    {
+      "id": 744,
+      "originalId": "img_1186",
+      "alt": "ASTRO"
+    },
+    {
+      "id": 745,
+      "originalId": "img_1188",
+      "alt": "TESLA"
+    },
+    {
+      "id": 746,
+      "originalId": "img_1189",
+      "alt": "LONGTAIL-1"
+    },
+    {
+      "id": 747,
+      "originalId": "img_1190",
+      "alt": "The Great Wave off Kanagawa by Hokusai"
+    },
+    {
+      "id": 748,
+      "originalId": "img_1192",
+      "alt": "Self-driving software working"
+    },
+    {
+      "id": 749,
+      "originalId": "img_1193",
+      "alt": "Data and information related to people detection in a room with a Wi-Fi router"
+    },
+    {
+      "id": 750,
+      "originalId": "img_1194",
+      "alt": "Series of images and data related to a tool that maps where hurricanes and other calamities have wiped out roads"
+    },
+    {
+      "id": 751,
+      "originalId": "img_1196",
+      "alt": "Graph related to a machine learning model that reads the titles of bug reports"
+    },
+    {
+      "id": 752,
+      "originalId": "img_1197",
+      "alt": "Graphs and data related to Scan2Plan, a model that segments 3D scans of empty indoor spaces into floor plans"
+    },
+    {
+      "id": 753,
+      "originalId": "img_1198",
+      "alt": "Road sign with the word \"trust\""
+    },
+    {
+      "id": 754,
+      "originalId": "img_1199",
+      "alt": "A screenshot from The Wizard of Oz"
+    },
+    {
+      "id": 755,
+      "originalId": "img_1200",
+      "alt": "Autonomous vehicle detecting images projected on the street"
+    },
+    {
+      "id": 756,
+      "originalId": "img_1201",
+      "alt": "Heart shape made with two hands"
+    },
+    {
+      "id": 757,
+      "originalId": "img_1202",
+      "alt": "Covid-19 illustration"
+    },
+    {
+      "id": 758,
+      "originalId": "img_1204",
+      "alt": "Detection of a digitally altered image of a frog holding a violin"
+    },
+    {
+      "id": 759,
+      "originalId": "img_1205",
+      "alt": "Two pandas eating"
+    },
+    {
+      "id": 760,
+      "originalId": "img_1206",
+      "alt": "Heat map of Europe"
+    },
+    {
+      "id": 761,
+      "originalId": "img_1207",
+      "alt": "Andrew Ng's grandfather drawing"
+    },
+    {
+      "id": 762,
+      "originalId": "img_1208",
+      "alt": "Animation showing NarxCare, a system that analyzes databases that track drug prescriptions in the US"
+    },
+    {
+      "id": 763,
+      "originalId": "img_1209",
+      "alt": "Series of images showing some of the findings of the new study by researchers at Stanford’s Human AI Institute"
+    },
+    {
+      "id": 764,
+      "originalId": "img_1211",
+      "alt": "Sequence of coffee producers using technology from Israeli-Colombian startup Demetria"
+    },
+    {
+      "id": 765,
+      "originalId": "img_1212",
+      "alt": "Information about a new unsupervised pretraining method called VICReg"
+    },
+    {
+      "id": 766,
+      "originalId": "img_1213",
+      "alt": "Dishwasher robot"
+    },
+    {
+      "id": 767,
+      "originalId": "img_1214",
+      "alt": "AI chip and graphics processing unit"
+    },
+    {
+      "id": 768,
+      "originalId": "img_1215",
+      "alt": "Graphs related to different attention mechanisms"
+    },
+    {
+      "id": 769,
+      "originalId": "img_1216",
+      "alt": "Forbidden sign over different potentially dangerous falsehood symbols"
+    },
+    {
+      "id": 770,
+      "originalId": "img_1218",
+      "alt": "Screen capture showing how Diffbot works"
+    },
+    {
+      "id": 771,
+      "originalId": "img_1219",
+      "alt": "Example of Occupancy Anticipation, a navigation system that predicts unseen obstacles, working"
+    },
+    {
+      "id": 772,
+      "originalId": "img_1221",
+      "alt": "Hawaiian Pizza"
+    },
+    {
+      "id": 773,
+      "originalId": "img_1222",
+      "alt": "Screen Shot 2020-09-02 at 11.35.37 AM"
+    },
+    {
+      "id": 774,
+      "originalId": "img_1223",
+      "alt": "Woman with plenty of shopping bags"
+    },
+    {
+      "id": 775,
+      "originalId": "img_1224",
+      "alt": "Graphs comparing SimCLR to SimCLRv2"
+    },
+    {
+      "id": 776,
+      "originalId": "img_1225",
+      "alt": "Animation of the universe"
+    },
+    {
+      "id": 777,
+      "originalId": "img_1227",
+      "alt": "Military AI technology"
+    },
+    {
+      "id": 778,
+      "originalId": "img_1228",
+      "alt": "Graphs related to a comparison and evaluation of 14 different optimizers"
+    },
+    {
+      "id": 779,
+      "originalId": "img_1229",
+      "alt": "The word \"bias\" with a forbidden sign over it"
+    },
+    {
+      "id": 780,
+      "originalId": "img_1230",
+      "alt": "Examples of high-resolution versions of low-resolution images."
+    },
+    {
+      "id": 781,
+      "originalId": "img_1231",
+      "alt": "Operation of a virtual fitting room"
+    },
+    {
+      "id": 782,
+      "originalId": "img_1232",
+      "alt": "Virtual bot speaking"
+    },
+    {
+      "id": 783,
+      "originalId": "img_1234",
+      "alt": "Apple watch with countdown"
+    },
+    {
+      "id": 784,
+      "originalId": "img_1235",
+      "alt": "Neural network tracking the body position of chimpanzees"
+    },
+    {
+      "id": 785,
+      "originalId": "img_1236",
+      "alt": "US Notice of Action"
+    },
+    {
+      "id": 786,
+      "originalId": "img_1237",
+      "alt": "Face recognition system in a supermarket"
+    },
+    {
+      "id": 787,
+      "originalId": "img_1238",
+      "alt": "Excerpts from Global AI Talent Tracker report"
+    },
+    {
+      "id": 788,
+      "originalId": "img_1239",
+      "alt": "Information related to the Once-for-All (OFA) method"
+    },
+    {
+      "id": 789,
+      "originalId": "img_1241",
+      "alt": "Partnership in AI, Amazon, Baidu, Google, Facebook, IBM, Microsoft logos"
+    },
+    {
+      "id": 790,
+      "originalId": "img_1242",
+      "alt": "Excerpt from study about models that learn to predict task-specific distance metrics"
+    },
+    {
+      "id": 791,
+      "originalId": "img_1243",
+      "alt": "Balance with \"present\" down and \"future\" up"
+    },
+    {
+      "id": 792,
+      "originalId": "img_1244",
+      "alt": "Excerpts of HBO documentary \"Welcome to Chechnya\""
+    },
+    {
+      "id": 793,
+      "originalId": "img_1245",
+      "alt": "Alexa device and information about its new skill called natural turn-talking"
+    },
+    {
+      "id": 794,
+      "originalId": "img_1247",
+      "alt": "Graphs and data related to RubiksShift"
+    },
+    {
+      "id": 795,
+      "originalId": "img_1248",
+      "alt": "Google tumor detector"
+    },
+    {
+      "id": 796,
+      "originalId": "img_1249",
+      "alt": "How to scope AI projects slide"
+    },
+    {
+      "id": 797,
+      "originalId": "img_1250",
+      "alt": "Margaret Mitchell, Marian Croak and Timnit Gebru pictured"
+    },
+    {
+      "id": 798,
+      "originalId": "img_1251",
+      "alt": "Graph showing system that examines X-ray images to predict which Covid-19 patients are at greatest risk of decline"
+    },
+    {
+      "id": 799,
+      "originalId": "img_1252",
+      "alt": "Mark Zuckerberg talking about Facebook's smart glasses"
+    },
+    {
+      "id": 800,
+      "originalId": "img_1254",
+      "alt": "Graph showing information about different transformer models"
+    },
+    {
+      "id": 801,
+      "originalId": "img_1255",
+      "alt": "Different graphs showing information about data scientists"
+    },
+    {
+      "id": 802,
+      "originalId": "img_1256",
+      "alt": "Process of diagnosing a medical patient slide"
+    },
+    {
+      "id": 803,
+      "originalId": "img_1257",
+      "alt": "Dozens of different faces shown in a series of images"
+    },
+    {
+      "id": 804,
+      "originalId": "img_1258",
+      "alt": "Different graphs showing switch transformer data"
+    },
+    {
+      "id": 805,
+      "originalId": "img_1259",
+      "alt": "Person in wheelchair, person in side profile, person wearing a hoodie"
+    },
+    {
+      "id": 806,
+      "originalId": "img_1261",
+      "alt": "Model predicting ingredients in a recipe and woman cooking"
+    },
+    {
+      "id": 807,
+      "originalId": "img_1262",
+      "alt": "System Oscar+ working"
+    },
+    {
+      "id": 808,
+      "originalId": "img_1263",
+      "alt": "Pie & AI: Seattle, March 25, 2019 (left); London, April 2, 2019 (right)"
+    },
+    {
+      "id": 809,
+      "originalId": "img_1264",
+      "alt": "Data scientist Mihajlo Grbovic"
+    },
+    {
+      "id": 810,
+      "originalId": "img_1265",
+      "alt": "Deepfake video of the Mona Lisa"
+    },
+    {
+      "id": 811,
+      "originalId": "img_1266",
+      "alt": "Autonomous U.S. Navy warship prototype in the sea"
+    },
+    {
+      "id": 812,
+      "originalId": "img_1267",
+      "alt": "Data-efficient image recognition with Contrastive Predictive Coding"
+    },
+    {
+      "id": 813,
+      "originalId": "img_1269",
+      "alt": "Autonomous truck on a highway"
+    },
+    {
+      "id": 814,
+      "originalId": "img_1270",
+      "alt": "World map with binary code around it"
+    },
+    {
+      "id": 815,
+      "originalId": "img_1271",
+      "alt": "Fire-spotting cameras alerting a fire engine"
+    },
+    {
+      "id": 816,
+      "originalId": "img_1272",
+      "alt": "AI generated videos and VideoGPT training pipeline"
+    },
+    {
+      "id": 817,
+      "originalId": "img_1274",
+      "alt": "Series of universities entrances"
+    },
+    {
+      "id": 818,
+      "originalId": "img_1275",
+      "alt": "Computer vision is probing the history of ancient pottery"
+    },
+    {
+      "id": 819,
+      "originalId": "img_1277",
+      "alt": "Flatten the curve campaign image"
+    },
+    {
+      "id": 820,
+      "originalId": "img_1278",
+      "alt": "Screen capture of online conference called Covid-19 and AI"
+    },
+    {
+      "id": 821,
+      "originalId": "img_1279",
+      "alt": "Information and data related to the meta-algorithm AutoML-Zero"
+    },
+    {
+      "id": 822,
+      "originalId": "img_1280",
+      "alt": "Video of Ai-gen-cy, an artist management firm that represents robots"
+    },
+    {
+      "id": 823,
+      "originalId": "img_1281",
+      "alt": "Scans representing pedestrians and other objects"
+    },
+    {
+      "id": 824,
+      "originalId": "img_1282",
+      "alt": "Data and graphs related to batch normalization"
+    },
+    {
+      "id": 825,
+      "originalId": "img_1283",
+      "alt": "Schematic of a typical deep learning workflow"
+    },
+    {
+      "id": 826,
+      "originalId": "img_1284",
+      "alt": "Andrew Ng working on three computers at the same time"
+    },
+    {
+      "id": 827,
+      "originalId": "img_1285",
+      "alt": "Heat treatment on metal"
+    },
+    {
+      "id": 828,
+      "originalId": "img_1286",
+      "alt": "Conference on Microsoft Teams with a person eating a chip bag"
+    },
+    {
+      "id": 829,
+      "originalId": "img_1287",
+      "alt": "Data related to model that predicts molecules that are structurally unrelated to known antibiotics"
+    },
+    {
+      "id": 830,
+      "originalId": "img_1289",
+      "alt": "Excerpts from promotional video for music-composing robot named Shimon"
+    },
+    {
+      "id": 831,
+      "originalId": "img_1290",
+      "alt": "Graphs related to ImageNet error landscape"
+    },
+    {
+      "id": 832,
+      "originalId": "img_1291",
+      "alt": "Women in AI in academia and industry chart"
+    },
+    {
+      "id": 833,
+      "originalId": "img_1292",
+      "alt": "Zoom call with the Ng family celebrating Andrew Ng's grandfather’s 102nd birthday"
+    },
+    {
+      "id": 834,
+      "originalId": "img_1293",
+      "alt": "Information related to OpenAI's model GPT-3"
+    },
+    {
+      "id": 835,
+      "originalId": "img_1294",
+      "alt": "Series of images and videclips related to the smartphone app Tuna Scope"
+    },
+    {
+      "id": 836,
+      "originalId": "img_1295",
+      "alt": "Graphs and data related to Ordered Temporal Alignment Module (Otam)"
+    },
+    {
+      "id": 837,
+      "originalId": "img_1297",
+      "alt": "Map of China pointing specific places in red"
+    },
+    {
+      "id": 838,
+      "originalId": "img_1298",
+      "alt": "Data related to a new reinforcement learning approach"
+    },
+    {
+      "id": 839,
+      "originalId": "img_1300",
+      "alt": "Lifelike video imagery of virtual people made by NEON"
+    },
+    {
+      "id": 840,
+      "originalId": "img_1301",
+      "alt": "Math equations represented as trees"
+    },
+    {
+      "id": 841,
+      "originalId": "img_1302",
+      "alt": "Excerpt from The Squire, an AI written short film"
+    },
+    {
+      "id": 842,
+      "originalId": "img_1303",
+      "alt": "Screen capture of Cinelytic searching for historical data of Nicole Kidman movies' performance"
+    },
+    {
+      "id": 843,
+      "originalId": "img_1304",
+      "alt": "Maze action video game Pac-Man"
+    },
+    {
+      "id": 844,
+      "originalId": "img_1305",
+      "alt": "White House network"
+    },
+    {
+      "id": 845,
+      "originalId": "img_1306",
+      "alt": "What people think artificial general intelligence will look like"
+    },
+    {
+      "id": 846,
+      "originalId": "img_1307",
+      "alt": "One sign with a message about being understaffed over a hiring sign for different engineering roles"
+    },
+    {
+      "id": 847,
+      "originalId": "img_1308",
+      "alt": "Different AI related news headlines"
+    },
+    {
+      "id": 848,
+      "originalId": "img_1310",
+      "alt": "Explanation of Multi-Modal Delay Randomization (MMDR)"
+    },
+    {
+      "id": 849,
+      "originalId": "img_1311",
+      "alt": "Pictures of senior citizens"
+    },
+    {
+      "id": 850,
+      "originalId": "img_1312",
+      "alt": "Man riding a bike and reading a book at the same time"
+    },
+    {
+      "id": 851,
+      "originalId": "img_1313",
+      "alt": "Screen Shot 2020-09-14 at 11.34.48 AM"
+    },
+    {
+      "id": 852,
+      "originalId": "img_1314",
+      "alt": "Graphs with data related to Microsoft's library DeepSpeed"
+    },
+    {
+      "id": 853,
+      "originalId": "img_1315",
+      "alt": "Bert (muppet) and information related to BERT (transformer-based machine learning technique)"
+    },
+    {
+      "id": 854,
+      "originalId": "img_1316",
+      "alt": "Doctors using AI-related tools on different devices"
+    },
+    {
+      "id": 855,
+      "originalId": "img_1318",
+      "alt": "Different chess moves"
+    },
+    {
+      "id": 856,
+      "originalId": "img_1319",
+      "alt": "Electroencephalogram (EEG) and data related to contrastive predictive coding (CPC)"
+    },
+    {
+      "id": 857,
+      "originalId": "img_1320",
+      "alt": "Economic surplus"
+    },
+    {
+      "id": 858,
+      "originalId": "img_1322",
+      "alt": "Film from 1911 colored"
+    },
+    {
+      "id": 859,
+      "originalId": "img_1323",
+      "alt": "Simplified depiction of LSH Attention"
+    },
+    {
+      "id": 860,
+      "originalId": "img_1324",
+      "alt": "Functioning of system that trackes the productivity of industrial workers"
+    },
+    {
+      "id": 861,
+      "originalId": "img_1325",
+      "alt": "Text \"You only live once. #YOLO\" written over an orange background"
+    },
+    {
+      "id": 862,
+      "originalId": "img_1326",
+      "alt": "Fragment of a video explaining a model that extracts landmarks on the fly from radar scans"
+    },
+    {
+      "id": 863,
+      "originalId": "img_1327",
+      "alt": "Exercise training system working"
+    },
+    {
+      "id": 864,
+      "originalId": "img_1328",
+      "alt": "Group picture with Taiwan AI Labs featuring Andrew Ng"
+    },
+    {
+      "id": 865,
+      "originalId": "img_1329",
+      "alt": "Neural Point Based Graphics technique producing a realistic image"
+    },
+    {
+      "id": 866,
+      "originalId": "img_1330",
+      "alt": "Question from an exam"
+    },
+    {
+      "id": 867,
+      "originalId": "img_1331",
+      "alt": "OpenAI's GPT-2 results"
+    },
+    {
+      "id": 868,
+      "originalId": "img_1333",
+      "alt": "Hardware components of the Augmented Reality Microscope (ARM)"
+    },
+    {
+      "id": 869,
+      "originalId": "img_1334",
+      "alt": "Illustration of Facebook AI Research method to compress neural networks"
+    },
+    {
+      "id": 870,
+      "originalId": "img_1335",
+      "alt": "DeepIndex.org list with ways AI is being put to use"
+    },
+    {
+      "id": 871,
+      "originalId": "img_1336",
+      "alt": "Andrew Ng with a group of engineers in Medellin, Colombia"
+    },
+    {
+      "id": 872,
+      "originalId": "img_1337",
+      "alt": "T-shirt covered with images of license plates"
+    },
+    {
+      "id": 873,
+      "originalId": "img_1338",
+      "alt": "GO match: AlphaGo vs. Lee Sedol"
+    },
+    {
+      "id": 874,
+      "originalId": "img_1339",
+      "alt": "Bert and Ernie from Sesame Street"
+    },
+    {
+      "id": 875,
+      "originalId": "img_1341",
+      "alt": "National Institute of Standards and Technology logo"
+    },
+    {
+      "id": 876,
+      "originalId": "img_1342",
+      "alt": "Comparison of the results using different normalization functions"
+    },
+    {
+      "id": 877,
+      "originalId": "img_1343",
+      "alt": "Balance"
+    },
+    {
+      "id": 878,
+      "originalId": "img_1344",
+      "alt": "AI-driven balloon reaching high altitude"
+    },
+    {
+      "id": 879,
+      "originalId": "img_1345",
+      "alt": "Data showing how new pretrained language models might learn facts like weight and cost"
+    },
+    {
+      "id": 880,
+      "originalId": "img_1346",
+      "alt": "Animations depicting benchmarking, datasets and best practices"
+    },
+    {
+      "id": 881,
+      "originalId": "img_1348",
+      "alt": "Video showing a Google app helping to keep a runner with impaired vision on track"
+    },
+    {
+      "id": 882,
+      "originalId": "img_1349",
+      "alt": "Results of a survey related to trust, transparency and AI"
+    },
+    {
+      "id": 883,
+      "originalId": "img_1351",
+      "alt": "Chatbot asking for Covid-19 symptoms"
+    },
+    {
+      "id": 884,
+      "originalId": "img_1352",
+      "alt": "Data and graphs related to equations that optimize some training parameters."
+    },
+    {
+      "id": 885,
+      "originalId": "img_1353",
+      "alt": "Map seen with computer vision"
+    },
+    {
+      "id": 886,
+      "originalId": "img_1354",
+      "alt": "15.ai screen capture with a character from My Little Pony"
+    },
+    {
+      "id": 887,
+      "originalId": "img_1355",
+      "alt": "Robotic hand identifying transparent objects"
+    },
+    {
+      "id": 888,
+      "originalId": "img_1356",
+      "alt": "Good and bad examples of labeling images with pictures of birds"
+    },
+    {
+      "id": 889,
+      "originalId": "img_1357",
+      "alt": "Photos from Pie & AI meetup in Medellin, Colombia"
+    },
+    {
+      "id": 890,
+      "originalId": "img_1358",
+      "alt": "Wafer Scale chip"
+    },
+    {
+      "id": 891,
+      "originalId": "img_1359",
+      "alt": "Google Research Football video"
+    },
+    {
+      "id": 892,
+      "originalId": "img_1360",
+      "alt": "One of the Fast Radio Bursts showing remarkable structure in time and radio frequency"
+    },
+    {
+      "id": 893,
+      "originalId": "img_1362",
+      "alt": "Video showing how Soundscape app works"
+    },
+    {
+      "id": 894,
+      "originalId": "img_1363",
+      "alt": "Calibration plot for ImageNet"
+    },
+    {
+      "id": 895,
+      "originalId": "img_1364",
+      "alt": "Pie & AI and IASI AI cupcakes"
+    },
+    {
+      "id": 896,
+      "originalId": "img_1366",
+      "alt": "Mechanical hand unscrambling a Rubik's Cube"
+    },
+    {
+      "id": 897,
+      "originalId": "img_1367",
+      "alt": "Collage with photos of people's faces"
+    },
+    {
+      "id": 898,
+      "originalId": "img_1368",
+      "alt": "Process of labeling doctors' notes"
+    },
+    {
+      "id": 899,
+      "originalId": "img_1370",
+      "alt": "Military tank"
+    },
+    {
+      "id": 900,
+      "originalId": "img_1371",
+      "alt": "Machine compressing an object"
+    },
+    {
+      "id": 901,
+      "originalId": "img_1372",
+      "alt": "Schematic of the architecture used in experiments related to systematic reasoning in deep reinforcement learning"
+    },
+    {
+      "id": 902,
+      "originalId": "img_1373",
+      "alt": "Top view of putting hands on each other"
+    },
+    {
+      "id": 903,
+      "originalId": "img_1374",
+      "alt": "AI-powered traffic monitoring in an intersection"
+    },
+    {
+      "id": 904,
+      "originalId": "img_1375",
+      "alt": "Graphs and data related to semi-supervised learning"
+    },
+    {
+      "id": 905,
+      "originalId": "img_1376",
+      "alt": "Series of pictures of people smiling"
+    },
+    {
+      "id": 906,
+      "originalId": "img_1378",
+      "alt": "Dozens of drones coordinating movements"
+    },
+    {
+      "id": 907,
+      "originalId": "img_1379",
+      "alt": "Information related to Policy Adaptation during Deployment (Pad)"
+    },
+    {
+      "id": 908,
+      "originalId": "img_1380",
+      "alt": "Conventional and data-centric benchmarks"
+    },
+    {
+      "id": 909,
+      "originalId": "img_1381",
+      "alt": "ezgif.com-gif-maker - 2021-05-25T094231.843"
+    },
+    {
+      "id": 910,
+      "originalId": "img_1382",
+      "alt": "NEWS"
+    },
+    {
+      "id": 911,
+      "originalId": "img_1384",
+      "alt": "BOOKCORPUS"
+    },
+    {
+      "id": 912,
+      "originalId": "img_1385",
+      "alt": "Resize"
+    },
+    {
+      "id": 913,
+      "originalId": "img_1386",
+      "alt": "Speech bubble that says \"It did well on the test set!\""
+    },
+    {
+      "id": 914,
+      "originalId": "img_1387",
+      "alt": "Netradyne Driveri system used to monitore Amazon's delivery drivers working"
+    },
+    {
+      "id": 915,
+      "originalId": "img_1388",
+      "alt": "Graphs and data related to visualized tokens (or vokens)"
+    },
+    {
+      "id": 916,
+      "originalId": "img_1389",
+      "alt": "Scale of justice symbol over a map of India"
+    },
+    {
+      "id": 917,
+      "originalId": "img_1391",
+      "alt": "Series of images and graphs related to cancer detection"
+    },
+    {
+      "id": 918,
+      "originalId": "img_1392",
+      "alt": "Rebag app working on a cellphone"
+    },
+    {
+      "id": 919,
+      "originalId": "img_1393",
+      "alt": "Students and associates of AI4US"
+    },
+    {
+      "id": 920,
+      "originalId": "img_1394",
+      "alt": "Face recognition system working on people wearing masks"
+    },
+    {
+      "id": 921,
+      "originalId": "img_1395",
+      "alt": "Data and graphs related to a method that synthesizes extracted features of underrepresented classes"
+    },
+    {
+      "id": 922,
+      "originalId": "img_1396",
+      "alt": "Images containing various atlas and graphs"
+    },
+    {
+      "id": 923,
+      "originalId": "img_1398",
+      "alt": "Hamster running in a hamster ball"
+    },
+    {
+      "id": 924,
+      "originalId": "img_1399",
+      "alt": "Graphs and data related to Plan2Vec"
+    },
+    {
+      "id": 925,
+      "originalId": "img_1400",
+      "alt": "Data related to methods for curating news feeds"
+    },
+    {
+      "id": 926,
+      "originalId": "img_1401",
+      "alt": "Drone race"
+    },
+    {
+      "id": 927,
+      "originalId": "img_1402",
+      "alt": "An illustration of filter pruning"
+    },
+    {
+      "id": 928,
+      "originalId": "img_1403",
+      "alt": "Tensorflow and Pytorch logos"
+    },
+    {
+      "id": 929,
+      "originalId": "img_1405",
+      "alt": "Map of Northamerica showing different indigenous languages by location"
+    },
+    {
+      "id": 930,
+      "originalId": "img_1406",
+      "alt": "Proposed model for abstractive summarization of a scientific article"
+    },
+    {
+      "id": 931,
+      "originalId": "img_1407",
+      "alt": "People holding a \"No student ban, no deportations\" sign"
+    },
+    {
+      "id": 932,
+      "originalId": "img_1408",
+      "alt": "AI-powered camera spotting a damaged product"
+    },
+    {
+      "id": 933,
+      "originalId": "img_1409",
+      "alt": "Examples of clothes image-text combo search"
+    },
+    {
+      "id": 934,
+      "originalId": "img_1411",
+      "alt": "Examples and explanation of an automatic headline generation"
+    },
+    {
+      "id": 935,
+      "originalId": "img_1412",
+      "alt": "Takes from videogame Source of Madness"
+    },
+    {
+      "id": 936,
+      "originalId": "img_1413",
+      "alt": "Road sign with the text \"new way\""
+    },
+    {
+      "id": 937,
+      "originalId": "img_1414",
+      "alt": "Nitin Pasumarthy and a quote from him"
+    },
+    {
+      "id": 938,
+      "originalId": "img_1415",
+      "alt": "Security robot walking on the street"
+    },
+    {
+      "id": 939,
+      "originalId": "img_1416",
+      "alt": "Information related to a model that predicts a chemical's smell"
+    },
+    {
+      "id": 940,
+      "originalId": "img_1417",
+      "alt": "Leaf stuck on a chain link fence"
+    },
+    {
+      "id": 941,
+      "originalId": "img_1419",
+      "alt": "Illustration of health related icons connected to a cloud"
+    },
+    {
+      "id": 942,
+      "originalId": "img_1420",
+      "alt": "Data related to RPDet"
+    },
+    {
+      "id": 943,
+      "originalId": "img_1421",
+      "alt": "Andrew Ng with a stash of new blank notebooks"
+    },
+    {
+      "id": 944,
+      "originalId": "img_1422",
+      "alt": "People playing Poker"
+    },
+    {
+      "id": 945,
+      "originalId": "img_1423",
+      "alt": "The structure of Bidirectional Generative Adversarial Networks (BiGAN)"
+    },
+    {
+      "id": 946,
+      "originalId": "img_1424",
+      "alt": "Cogito app screenshot"
+    },
+    {
+      "id": 947,
+      "originalId": "img_1426",
+      "alt": "Novak Djokovic celebrating during a tennis game"
+    },
+    {
+      "id": 948,
+      "originalId": "img_1427",
+      "alt": "Training objective for UDA, where M is a model that predicts a distribution of y given x"
+    },
+    {
+      "id": 949,
+      "originalId": "img_1428",
+      "alt": "Andrew Ng's course certificate from Coursera"
+    },
+    {
+      "id": 950,
+      "originalId": "img_1429",
+      "alt": "Facetime app Attention Correction feature"
+    },
+    {
+      "id": 951,
+      "originalId": "img_1430",
+      "alt": "Rosetta Stone"
+    },
+    {
+      "id": 952,
+      "originalId": "img_1431",
+      "alt": "Two recycling robots working"
+    },
+    {
+      "id": 953,
+      "originalId": "img_1432",
+      "alt": "Prediction of new thermoelectric materials"
+    },
+    {
+      "id": 954,
+      "originalId": "img_1434",
+      "alt": "A novel algorithm identifying the perceived emotions of individuals based on their walking styles"
+    },
+    {
+      "id": 955,
+      "originalId": "img_1435",
+      "alt": "Illustrations of the influenza virus and its viral proteins"
+    },
+    {
+      "id": 956,
+      "originalId": "img_1436",
+      "alt": "Image segmentation in text over food can, box and jar"
+    },
+    {
+      "id": 957,
+      "originalId": "img_1437",
+      "alt": "Semantic Thinning Edge Alignment Learning example"
+    },
+    {
+      "id": 958,
+      "originalId": "img_1438",
+      "alt": "The Original X-ray Spex - Amazing X-ray Vision glasses poster"
+    },
+    {
+      "id": 959,
+      "originalId": "img_1439",
+      "alt": "How the Louroe Digifact A works to detect aggression"
+    },
+    {
+      "id": 960,
+      "originalId": "img_1441",
+      "alt": "Example video-clip retrieval results on HowTo100M using our trained joint embedding"
+    },
+    {
+      "id": 961,
+      "originalId": "img_1442",
+      "alt": "X-ray of a person with a pacemaker"
+    },
+    {
+      "id": 962,
+      "originalId": "img_1443",
+      "alt": "Statistics related to the social impact of robots issued in the How Robots Change the World report"
+    },
+    {
+      "id": 963,
+      "originalId": "img_1444",
+      "alt": "Andrew Ng inside the Blue Origin’s space capsule"
+    },
+    {
+      "id": 964,
+      "originalId": "img_1445",
+      "alt": "Example of a system to make deepfakes"
+    },
+    {
+      "id": 965,
+      "originalId": "img_1446",
+      "alt": "Coal-burning power plant"
+    },
+    {
+      "id": 966,
+      "originalId": "img_1448",
+      "alt": "Class conditional random samples"
+    },
+    {
+      "id": 967,
+      "originalId": "img_1449",
+      "alt": "Images of household items across the world, their country of origin and a prediction word"
+    },
+    {
+      "id": 968,
+      "originalId": "img_1450",
+      "alt": "Photo of Andrew Ng and his father"
+    },
+    {
+      "id": 969,
+      "originalId": "img_1451",
+      "alt": "Example of system predicting future person activities and locations in videos"
+    },
+    {
+      "id": 970,
+      "originalId": "img_1452",
+      "alt": "Hermes, a humanoid robot"
+    },
+    {
+      "id": 971,
+      "originalId": "img_1453",
+      "alt": "Chart with reader ratings of human-generated vs GROVER-generated articles"
+    },
+    {
+      "id": 972,
+      "originalId": "img_1455",
+      "alt": "Mutations in noncoding DNA"
+    },
+    {
+      "id": 973,
+      "originalId": "img_1456",
+      "alt": "Drone flying over a blue sky"
+    },
+    {
+      "id": 974,
+      "originalId": "img_1457",
+      "alt": "Synthetically generated images of cars in motion"
+    },
+    {
+      "id": 975,
+      "originalId": "img_1458",
+      "alt": "Test accuracy on Lenet (iterative pruning) as training proceeds"
+    },
+    {
+      "id": 976,
+      "originalId": "img_1459",
+      "alt": "Explanation graph, related to Explainable Boosting Machine"
+    },
+    {
+      "id": 977,
+      "originalId": "img_1461",
+      "alt": "Samples of Sketches produced by humans and Sketchforme used in the AMT user study"
+    },
+    {
+      "id": 978,
+      "originalId": "img_1462",
+      "alt": "Some results from an international survey of executives who are using AI at scale"
+    },
+    {
+      "id": 979,
+      "originalId": "img_1463",
+      "alt": "People working on a trading room"
+    },
+    {
+      "id": 980,
+      "originalId": "img_1464",
+      "alt": "Animation of a neural network"
+    }
+  ]
+}
